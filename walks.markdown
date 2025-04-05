@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stages
+title: Walks
 background: /assets/images/stages.jpg
 ---
 
