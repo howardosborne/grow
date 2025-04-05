@@ -3,8 +3,8 @@ title: Great Ouse Ways
 email: grow@greatouseways.info
 description: >- # this means to ignore newlines until "baseurl:"
   A guide to exploring the Great Ouse
-baseurl: "" 
-url: "" 
+baseurl: "/grow" 
+url: "https://howardosborne.github.io/grow/" 
 bsky_username: greatouseways
 
 theme: jekyll-theme-clean-blog
