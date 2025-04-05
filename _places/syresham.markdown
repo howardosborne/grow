@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Syresham to Buckingham"
-categories: walks
+title:  "Syresham"
+categories: places
 ---
 
 This is the first part of the Great Ouse
