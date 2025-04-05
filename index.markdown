@@ -1,5 +1,6 @@
 ---
 layout: home
+background: /assets/images/main.jpg
 ---
 
 ## Walks

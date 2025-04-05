@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-<header class="masthead" style="background-image: url('/assets/images/main.jpg')">
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
