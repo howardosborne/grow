@@ -4,7 +4,7 @@ title: Swimming
 background: /assets/images/swimming.jpg
 ---
 
-Here are some tips on swimming the Great Ouse
+Here is a guide to swimming in and around the Great Ouse.
 
 https://wildopenwater.com/swimspot/olney-milton-keynes-england-united-kingdom
 
