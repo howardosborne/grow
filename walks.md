@@ -13,12 +13,22 @@ The 150 mile-long Ouse Valley Way is a fascinating cross-section through England
 
 Seing how our country has come to be as it is poses questions about the future. You'll get the chance to meet some of the people for whom the river plays a part of their daily lives.
 
-The walk is described below in three sections and reflects the different character of each stretch of the river. There is also an [interactive map](#interactive-map) at the bottom of the page.
+The walk is described below in three sections and reflects the different character of each stretch of the river.
+- [Headwaters: Syresham to Bedford](#headwaters-syresham-to-bedford)
+- [The Navigable River: Bedford to Earith](#the-navigable-river-bedford-to-ely)
+- [Fens: Earith to Kings Lynn](#fens-ely-to-kingslynn)
 
-### Part 1 Headwaters: Syresham to Bedford 
+### Interactive Map
+This map also shows some suggested routes along with points of interest and potential obstacles.
+<iframe src="https://www.google.com/maps/d/embed?mid=1eoGueefCYgQhek5FbErdCoKU6mCPNw8&ehbc=2E312F" width="100%" height="480"></iframe>
+
+
+### Headwaters: Syresham to Bedford 
 > ~~every thousand mile journey starts with a single step~~
 
 > getting lost is part of the journey
+
+<img class="rounded card-img-top" src="./assets/images/headwaters.png" alt="headwaters">
 
 In this part we'll be spending time following the streams, brooks and ditches and walking through fields with the occaional sight of a hare or deer but usually accompanied by the sound of blackbirds, great tits and skylarks.
 
@@ -99,7 +109,7 @@ At Beachampton there's a nice church and a pub where you can get some refreshmen
 
 <img class="rounded card-img-top" src="./assets/images/1/Beachampton%20church%202.jpg" alt="Beachampton">
 
-Arriving at the Lower Wield of Calverton marks the entry into the city of Milton Keynes. Milton Keynes (MK as the locals call it) takes its name from one of the 13 villages and towns that were incorporated into the new conurbation and if your only notion of MK is roundabouts and concrete cows, you will be in for a treat.
+Arriving at the Lower Wield of [Calverton](https://en.wikipedia.org/wiki/Calverton,_Buckinghamshire) marks the entry into the city of Milton Keynes. Milton Keynes (MK as the locals call it) takes its name from one of the 13 villages and towns that were incorporated into the new conurbation and if your only notion of MK is roundabouts and concrete cows, you will be in for a treat.
 
 <div class="row">
 <div class="col">
@@ -111,7 +121,7 @@ Arriving at the Lower Wield of Calverton marks the entry into the city of Milton
 </div>
 
 It's just a short wander into the ancient coaching town of Stony Stratford which was, as the name suggests, the place where Watling Street crossed the Great Ouse (street ford). 
-It's a good place to stay or at least get something to eat and drink and why not do as travellers in the past did and go to either the Cock Inn or the Bull Hotel. What did travellers used to talk about? Who knows, but we've ended up with any tall tale being a Cock and Bull story.
+It's a good place to stay or at least get something to eat and drink and why not do as travellers in the past did and go to either the Cock Inn or the Bull Hotel and tell your own [Cock and Bull story](https://en.wikipedia.org/wiki/Cock_and_bull_story).
 
 #### 3. Stony Stratford to Newport Pagnell (16.5 km)
 
@@ -119,7 +129,9 @@ Crossing Milton Keynes is a chance to see how tricky questions of development ha
 
 <img class="rounded card-img-top" src="./assets/images/3.png" alt="syresham to buckingham to stony">
 
-There are several options for taking different routes and one alternative is marked on the map. The city is also served by a network of walkable / cycleable routes known as the Redways and are a great way to explore some of the sites - you could even hire a bike or scooter for some or all of the way. [download redways map](https://getaroundmk.org.uk/wp-content/uploads/2020/06/MK_Redway_Poster.pdf) 
+There are several options for taking different routes and alternatives are marked on the map. The city is also served by a network of walkable/cycleable/scootable routes known as the Redways and are a great way to explore some of the sites - you could even hire a bike or scooter for some or all of the way.
+
+[download redways map](https://getaroundmk.org.uk/wp-content/uploads/2020/06/MK_Redway_Poster.pdf) 
 
 The end point is the town of Newport Pagnell which mirrors Stony Stratford as an old place at the edge of MK. It has the only vellum manufacturer in the United Kingdom and is the original home of Aston Martin.
 
@@ -131,7 +143,7 @@ From Newport Pagnell the route crosses the Great Ouse at the weir
 
 <img class="rounded card-img-top" src="./assets/images/1/Great%20Ouse%20at%20Newport%20Pagnell.jpg" alt="NP">
 
-and heads to Sherington where a curious event took place in 1935. Deligations from long time rivals Oxford and Cambridge Universities met here and dug a hole. They buried a small axe as a symbol that it was time to put their rivalries to oneside and, as they both did and said, bury the hatchett.
+and heads to Sherington where a curious event took place in 1935. Deligations from long time rivals Oxford and Cambridge Universities met here to dig a hole and place a small axe in it. What better way to symbolise the ending of their rivalries by burying the hatchet.
 
 <div class="row">
 <div class="col">
@@ -155,7 +167,7 @@ There's also a nice path up to the church.
 
 <img src="./assets/images/1/Sherington%20church.jpg" class="rounded card-img-top" alt="...">
 
-The official route takes a long detour towards Tyringham, which never quite reaches the manor. If you would like to see these, a way has been added to the map. Alternatively, a more direct route is also marked on the map in case you would rather spend your time amusing yourself in Olney. The route also goes through Emberton Country Park which leads up to a weir and sluice system for managing water.
+The official route takes a long detour towards Tyringham, but doesn't quite reach John Soane's striking [Tyringham Hall](https://en.wikipedia.org/wiki/Tyringham_Hall). The house isn't open to the public but you can see the gatehouse and bridge and a diversion to these has been added to the map. Alternatively, a more direct route is also marked on the map in case you would rather spend your time amusing and [amazing](https://cowperandnewtonmuseum.org.uk/) yourself in Olney. The route also goes through Emberton Country Park which leads up to a weir and sluice system for managing water.
 
 <div class="row">
 <div class="col">
@@ -166,7 +178,7 @@ The official route takes a long detour towards Tyringham, which never quite reac
 </div>
 </div>
 
-Olney is a confortable Georgian town and as the signs say, the 'home of Amazing Grace'. You might want to spend some time here finding out more at the [Cowper and Newton museum](https://cowperandnewtonmuseum.org.uk/).
+Olney is a comfortable Georgian town and as the signs say, the 'home of Amazing Grace'. You might want to spend some time here finding out more at the [Cowper and Newton museum](https://cowperandnewtonmuseum.org.uk/).
 
 It's also home to [pancake racing](http://olneypancakerace.org/), but if you're here at the wrong time of year, you could always make up your own race with something from the [Pancake Parlour](https://www.olneypancakeparlour.co.uk/).
 
@@ -226,7 +238,7 @@ Turvey is a pleasant village, despite having to manage a fair weight of passing 
 
 <img src="./assets/images/1/turvey.jpg" class="rounded card-img-top" alt="...">
 
-The church also contains a curious mauseleum for the local big-wigs. Note the depth of the bricked-in door at the front...
+The church also contains a curious mauseleum for the local big-wigs which suggests that there is more to it than meets the eye - look a the bricked-in door at the front...
 
 <div class="row">
 <div class="col">
@@ -237,43 +249,154 @@ The church also contains a curious mauseleum for the local big-wigs. Note the de
 </div>
 </div>
 
+The route leaves the river behind and continues over farmland to Carlton where [The Fox](http://www.thefoxatcarlton.pub/) will serve up lunch or a real ale liquid lunch - it prides itself on its CAMRA awards.
+
+<img src="./assets/images/1/fox.jpg" class="rounded card-img-top" alt="...">
+
+The route then drops down to Harrold via a bridge that is well used to dealing with flooding.
+
+<div class="row">
+<div class="col">
+<img src="./assets/images/1/harrold_bridge.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col">
+<img src="./assets/images/1/harrold_bridge_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+[Harrold Odell Country Park](https://hocp.co.uk/) is one of several accessible nature-rich habitats that have been created thanks to quarrying for sand and gravel. There's a visitor centre, cafe and pay-by-donation car park. The bridge is also a popular place for bathers and paddlers heading towards Felmersham.
+
+The route to Odell is entirely through the Country Park.
+
 #### 6. Odell to Pavenham (10.5 km)
 
 <img class="rounded card-img-top" src="./assets/images/6.png" alt="Odell Pavenham">
 
-The route from Odell to Pavenham broadly follows the shape of the wending river and yet seems to completely miss it at the same time, which is a shame. Nevertheless, Sharnbrook is a good place for pub-based provisions and accommodation. Making a detour into Felmersham is also worth considering. People use the ramp by the bridge at Felmersham for paddling and swimming.
+The route from Odell to Pavenham makes a long loop, as does the wending river and yet seems to completely miss it, which is a shame. Even the part which does follow the course of the river is obscured.
 
-A shorter alternative route is marked on the map.  
+<img class="rounded card-img-top" src="./assets/images/1/odell_church.jpg" alt="Odell Pavenham">
+
+Nevertheless, Sharnbrook is a good place for pub-based provisions and accommodation. Making a detour into Felmersham is worth the walk. When Niklaus Pevsner surveyed Bedfordshire for his epic series of books on the architecture of Britain, he put this church at the top of the list. The bridge is also a place where people come to bathe and paddle despite the various problems over the years with the Odell sewage treatment plant upstream.
+
+A shorter alternative route is marked on the map in case you would like to spend your time on some of the special places to come.
+
+<img class="rounded card-img-top" src="./assets/images/1/shelter.jpg" alt="Odell Pavenham">
+
+The village of Pavenham is rare for having a phone box with an actual phone in it (not working) and a collection of pretty cottages. 
+
+<div class="row">
+<div class="col">
+<img src="./assets/images/1/pavenham.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col">
+<img src="./assets/images/1/pavenham_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
 
 #### 6. Pavenham to Bedford (15.5 km)
 
 <img class="rounded card-img-top" src="./assets/images/7.png" alt="Pavenham to Bedford">
 
-From Pavenham the route is back on the river
-SSSi site
-Stevington holy well, post mill and village characters
-Heading in to Bedford is a bit dissapointing - might want to consider one of the alternative routes
-Things to do in Bedford
+From Pavenham the route is back on the river and follows a sloping to the river. Some of the gound is marshy all year round which is an inconveience for walkers but a delight for nature. As a result, it has earned its status as a Site of Special Scientific Interest.
 
-### Navigation: Bedford to Ely
-From the retreat of the Romans to the industrial revolution, it's fair to say that England wasn't very easy to get around. Towns prospered when they were on navigable rivers allowing trade to flow. From Bedford onwards we'll see a series of places that have benefitted from those trade links and see how they have managed the tricky business of managing water.
+<div class="row">
+<div class="col">
+<img src="./assets/images/1/pavenham_sssi.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col">
+<img src="./assets/images/1/pavenham_sssi_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
 
-#### Bedford to Roxton
+The constant flow of water from the limestone ridge to the river takes on a different significance at Stevington. Here people come from far and wide to fill up bottles of water from a holy well which passes under St Mary's church (and graveyard).
+
+<div class="row">
+<div class="col-8">
+<img src="./assets/images/1/st_mary_stevington.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-4">
+<img src="./assets/images/1/holy_well.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+The church is well worth a look inside if only to see the medieval pew carvings.
+
+<div class="row">
+<div class="col">
+<img src="./assets/images/1/pew_carvings_1.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col">
+<img src="./assets/images/1/pew_carvings_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+The village has a community-run shop in the village hall and if you are passing through on a Wednesday, you are welcome to join the locals for lunch.
+
+The route carries on crossing over the old railway line and past the Stevington postmill.
+
+<img src="./assets/images/1/stevington_postmill.jpg" class="rounded card-img-top" alt="...">
+
+Continuing into Bromham, the route meets back up with the Great Ouse at Bromham Mill. It's now a nice park and popular cafe and is next to Bromham Bridge which is not pedestrian friendly.
+
+<div class="row">
+<div class="col">
+<img src="./assets/images/1/bromhan_mill.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col">
+<img src="./assets/images/1/bromham_bridge.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+The official route continues along the riverside and is accompanied by the unrelenting sound of traffic from the A6 before ducking unexpectedly into a housing estate at Great Denham. Alternative routes have been marked on the map...
+
+Heading into town, you'll pass near to the [Guru Nanak Gudwara Temple](http://gngbedford.org/) and Eagle Brewery which is not open to the public.
+
+Bedford makes the most of its river setting and a stroll through the parks that run along the river is a chance to see how it is actively used by local schools and enthusiats alike for rowing and kayaking.
+
+Spending time in Bedford is also a chance to visit the John Bunyan museum and visit the Panacea Society.
+
+### The Navigable River: Bedford to Ely
+
+From the retreat of the Romans to the industrial revolution, it's fair to say that England wasn't very easy to get around. Towns prospered when they were on navigable rivers allowing trade to flow.
+
+From Bedford onwards we'll see a series of places that have benefitted from those trade links and see how they have dealt the tricky business of managing water.
+
+<img class="rounded card-img-top" src="./assets/images/navigation.png" alt="headwaters">
+
+#### Bedford to Great Barford (11 km)
+
+<img class="rounded card-img-top" src="./assets/images/2/1.png" alt="Pavenham to Bedford">
+
 This is a very pleasant stroll taking in Bedford's parklands, former railway lines and passing the pretty Willington Dovecote 
+
+#### Great Barford to St Neots ()
+
+<img class="rounded card-img-top" src="./assets/images/2/2.png" alt="Pavenham to Bedford">
+
 Roxton congregational church
-#### Roxton to St Neots
 Major developments underway
 cross the A1 and walk along it
+
 #### St Neots to Godmanchester
 Well marked trail with information boards.
 
 #### Godmanchester to St Ives
+
+<img class="rounded card-img-top" src="./assets/images/2/3.png" alt="Pavenham to Bedford">
+
 some paths a little bit confusing but generally well marked and quite accessible
 pass Houghton Mill where people paddle
 Holt island at St Ives
 #### St Ives to Earith
-#### Earith to Ely
-### Fenslands: Ely to KingsLynn
 
-### Interactive Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1eoGueefCYgQhek5FbErdCoKU6mCPNw8&ehbc=2E312F" width="100%" height="480"></iframe>
+<img class="rounded card-img-top" src="./assets/images/2/4.png" alt="Pavenham to Bedford">
+
+### Fens: Ely to KingsLynn
+
+<img class="rounded card-img-top" src="./assets/images/headwaters.png" alt="headwaters">
+
+#### Earith to Ely
+
+#### Ely to Downham Market
+
+#### Downham Market to Kings Lynn
