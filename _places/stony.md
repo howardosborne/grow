@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: place
 title:  "Stony Stratford"
 categories: places
 lat: 52.0622582	
@@ -8,6 +8,10 @@ background: /assets/images/stony.jpg
 ---
 
 Old coaching town on Watling street and home of the Cock and Bull story.
+
+<div id="map" class="col-md-12" style="height: 400px;"></div>
+
+Withail and I
 
 ### Accommodation
 https://www.greeneking.co.uk/pubs/buckinghamshire/cock-hotel

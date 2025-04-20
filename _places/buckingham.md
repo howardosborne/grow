@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: place
 title:  "Buckingham"
 categories: places
 lat: 52.0019278	
@@ -8,6 +8,8 @@ background: /assets/images/buckingham.jpg
 ---
 
 Old market town with a selection of places to eat and drink. Market days are Tuesday and Saturday which take over Market Hill and the High Street cattle pens. 
+
+<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 The architectural highlight is the Old Gaol which was built to help revive the town's fortunes after the great fire. Alas, it didn't do the trick and county town status has stayed with Aylesbury ever since. 
 
@@ -28,3 +30,4 @@ If you are here on a Sunday, you could meet the locals who tend the Edible Garde
 ### getting there
 X5: Oxford, Milton Keynes, Bedford
 X60: Aylesbury
+

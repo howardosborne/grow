@@ -12,7 +12,7 @@
     
   </title>
 
-  <meta name="description" content="Syresham is a pretty village on the Northhamptonshire side of the border with Buckinghamshire.">
+  <meta name="description" content="Syresham is a pretty village on the Northamptonshire side of the border with Buckinghamshire.">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -127,7 +127,9 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        <p>Syresham is a pretty village on the Northhamptonshire side of the border with Buckinghamshire.</p>
+        <p>Syresham is a pretty village on the Northamptonshire side of the border with Buckinghamshire.</p>
+
+<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 <p>The nearby limestone quarry was used to make many of its older buildings.</p>
 
@@ -149,6 +151,18 @@
       </div>
     </div>
   </div>
+
+<script>
+  const map = L.map('map').setView([50, 0], 5);
+  const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19,	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+    var my_icon = L.icon({iconUrl: "../assets/images/place.png",iconSize: [24, 24], iconAnchor: [12,24]});
+    var markers = L.layerGroup();
+    map.addLayer(markers);
+    marker = L.marker([52.0687645, -1.0817606],{icon:my_icon});
+    marker.properties = {};
+    marker.addTo(markers);
+    map.flyTo([52.0687645, -1.0817606],11)
+</script>
 
 
   <!-- Footer -->

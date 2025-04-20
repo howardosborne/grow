@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: place
 title:  "Syresham"
 categories: places
 lat: 52.0687645	
@@ -7,7 +7,9 @@ lng: -1.0817606
 background: /assets/images/syresham.jpg
 ---
 
-Syresham is a pretty village on the Northhamptonshire side of the border with Buckinghamshire.
+Syresham is a pretty village on the Northamptonshire side of the border with Buckinghamshire.
+
+<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 The nearby limestone quarry was used to make many of its older buildings.
 

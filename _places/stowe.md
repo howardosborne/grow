@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: place
 title:  "Stowe"
 categories: places
 lat: 52.0220025
@@ -10,6 +10,8 @@ background: /assets/images/stowe.jpg
 What could be more quintessentially English than gardening?
 
 In terms of scale and quality, there is little to match Stowe as an English garden on the grandest scale. As well as being a 'Capability' Brown masterpiece, it's also filled with temples and monuments stacked with meaning. 
+
+<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 There is a cafe, giftshop and pretty impressive second-hand bookshop.
 
