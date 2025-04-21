@@ -11,8 +11,13 @@ background: /assets/images/olney.jpg
 
 
 ### Accommodation
-https://www.bullhotelolney.co.uk/
-https://www.theswanolney.co.uk/
+[Bull Hotel](https://www.bullhotelolney.co.uk/)
+
+[The Swan](https://www.theswanolney.co.uk/)
+
 
 ### getting there
-Buses to Olney
+The No. 21 bus connects to [Newport Pagnell](./newport-pagnell.html) via Sherington.
+The No. 41 connects Olney with [Bedford](./bedford.html) via Turvey and Bromham which are both on route to Beford, but getting to places like Odell or Pavenham is more convoluted.
+
+[Stagecoach](https://www.stagecoachbus.com/)

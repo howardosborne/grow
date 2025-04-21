@@ -14,10 +14,12 @@ Old coaching town on Watling street and home of the Cock and Bull story.
 Withail and I
 
 ### Accommodation
-https://www.greeneking.co.uk/pubs/buckinghamshire/cock-hotel
-https://thebullhotelstonystratford.co.uk/
+[Cock Hotel](https://www.greeneking.co.uk/pubs/buckinghamshire/cock-hotel)
+[Bull Hotel](https://thebullhotelstonystratford.co.uk/)
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Stony+Stratford)
 
 ### getting there
-The X5 and X6 run from Oxford via Buckingham and Stony to Bedford. 
-Buses between Stony and Newport involve going into the centre of MK.
-There are regular trains to MK or Wolverton which is on the route.
+The X5 runs between Oxford and [Bedford](./bedford.html) via [Buckingham](./buckingham.html) and Stony Stratford. Buses between Stony Stratford and Newport Pagnell involve travelling into the centre of MK and back out again.
+[Bus departures](http://www.stagecoachbus.com/)
+There are regular trains to Milton Keynes and Wolverton which is on the route.
+[Wolverton departures](https://www.nationalrail.co.uk/live-trains/departures/wolverton/)

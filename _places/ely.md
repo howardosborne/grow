@@ -10,9 +10,8 @@ background: /assets/images/ely.jpg
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
 ### Accommodation
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Ely)
 
-### getting there
-Well connected by rail 
-Kings Lynn, Cambridge
-
-https://www.greateranglia.co.uk/travel-information/station-information/ely
+### Getting there
+Ely is well connected (for its size) by rail to London, Cambridge, Norwich, Birmingham as well as, [Downham Market](./downham-market.html) and [Kings Lynn](./kings-lynn.html).
+[Departures](https://www.nationalrail.co.uk/live-trains/departures/ely/)

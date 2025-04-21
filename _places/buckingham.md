@@ -25,9 +25,13 @@ If you are here on a Sunday, you could meet the locals who tend the Edible Garde
 
 ### Accommodation
 [Villiers Hotel](https://www.villiers-hotel.co.uk/)
+
 [White Hart](https://www.greeneking.co.uk/pubs/buckinghamshire/white-hart)
 
-### getting there
-X5: Oxford, Milton Keynes, Bedford
-X60: Aylesbury
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Bedford)
 
+### Getting there
+Buckingham can be reached from Oxford, Milton Keynes, Bedford and Aylesbury.
+The X5 goes to Stony Stratford, Milton Keynes Central and Bedford. 
+For getting to/from Syresham, change at Brackley (one bus a day goes directly).
+[Bus departures](http://www.stagecoachbus.com/)

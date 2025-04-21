@@ -11,5 +11,8 @@ background: /assets/images/odell.jpg
 
 
 ### Accommodation
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Harrold%2C+Bedfordshire%2C)
 
-### getting there
+### Getting there
+Odell is the other end of the Harrold Odell Country Park and best connections go from there to Bedford.
+The No 25 bus from Harrold goes to Bedford via Stevington and [Pavenham](./pavenham.html), which is on the walking route.

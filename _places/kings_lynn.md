@@ -11,6 +11,6 @@ background: /assets/images/kings_lynn.jpg
 
 
 ### Accommodation
-
-### getting there
-Trains to Downham Market, Ely and Cambridge
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Kings+Lynn)
+### Getting there
+Trains connect Kings Lynn to [Downham Market](./downham-market.html), [Ely](./ely.html) and Cambridge.

@@ -11,5 +11,7 @@ background: /assets/images/pavenham.jpg
 
 
 ### Accommodation
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Pavenham%2C+Bedfordshire%2C)
 
-### getting there
+### Getting there
+Pavenham is on the No 25 bus route from Rushden to [Bedford](./bedford.html) via Harrold (and Odell)

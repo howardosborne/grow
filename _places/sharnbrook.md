@@ -12,7 +12,8 @@ background: /assets/images/sharnbrook.jpg
 
 ### Accommodation
 [The Mill](https://www.themillsharnbrook.co.uk/)
+
 [Riverside Lodge](https://www.riversidelodgebedford.co.uk/)
 
 ### getting there
-Buses to Bedford and Oakley
+Both the Nos. 25 and 50 buses goes to [Bedford](./bedford.html) with the No 25 going via Harrold and Stevington.

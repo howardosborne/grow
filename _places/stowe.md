@@ -17,6 +17,11 @@ There is a cafe, giftshop and pretty impressive second-hand bookshop.
 
 What there isn't is a village, which was cleared to make way for the House and gardens.
 
-About Stowe: https://www.youtube.com/watch?v=fdJ6wj6vEs4
-Stowe School: https://www.stowe.co.uk/
-Stowe Gardens: https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens
+[About Stowe](https://www.youtube.com/watch?v=fdJ6wj6vEs4)
+[Stowe School](https://www.stowe.co.uk/)
+[Stowe Gardens](https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens)
+
+## Getting there
+The nearest bus stop is in Chackmore where the 134 bus goes between Buckingham and Westbury via Chackmore and Dadford. 
+
+[Traveline](https://www.traveline.info/)

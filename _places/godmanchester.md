@@ -10,7 +10,14 @@ background: /assets/images/godmanchester.jpg
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
 ### Accommodation
+[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Godmanchester)
 
-### getting there
-Huntingdon has a railway station with regular trains to London and Peterborough.
-Local buses go to St Neots, Buckden and Cambridge
+### Getting there
+The best links are to adjoining Huntingdon which has a railway station with regular trains to London via [St Neots](./st-neots.html).
+
+[departures](https://www.nationalrail.co.uk/live-trains/departures/huntingdon/)
+
+The No. 66 bus also goes to St Neots via Buckden and Cambridge in the other direction.
+The 'B the busway' connects Huntingdon with [St Ives](./st-ives.html)
+
+[bus timetables](https://www.stagecoachbus.com/)

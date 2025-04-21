@@ -1,7 +1,7 @@
 ---
 layout: mappage
 title: Ouse Valley Way
-background: /assets/images/walks.jpg
+background: /assets/images/ovw.jpg
 ---
 
 The 150 mile-long Ouse Valley Way is a fascinating cross-section through England. It's a chance to discover how the country has been shaped by the river and allowed our ancestors to prosper. It passes through ancient villages, new towns and communities of the future.
@@ -33,20 +33,18 @@ In this stretch we'll be spending time following the streams, brooks and ditches
 
 It's fair to say that maintenance of this part of the Way has been rather neglected in parts. Known issues are marked on the map, as are alternative routes.
 
-[1. Syresham to Buckingham (12 km)](#1-syresham-to-buckingham-12-km)
+### legs
 
-[2. Buckingham to Stony Stratford (15 km)](#2-buckingham-to-stony-stratford-15-km)
-
-[3. Stony Stratford to Newport Pagnell (16.5 km)](#3-stony-stratford-to-newport-pagnell-165-km)
-
-[4. Newport Pagnell to Olney (14 km)](#4-newport-pagnell-to-olney-14-km)
-
-[5. Olney to Odell (13 km)](#5-olney-to-odell-13-km)
-
-[6. Odell to Pavenham (10.5 km)](#6-odell-to-pavenham-105-km)
+- [Syresham to Buckingham (12 km)](#1-syresham-to-buckingham-12-km)
+- [Buckingham to Stony Stratford (15 km)](#2-buckingham-to-stony-stratford-15-km)
+- [Stony Stratford to Newport Pagnell (16.5 km)](#3-stony-stratford-to-newport-pagnell-165-km)
+- [Newport Pagnell to Olney (14 km)](#4-newport-pagnell-to-olney-14-km)
+- [Olney to Odell (13 km)](#5-olney-to-odell-13-km)
+- [Odell to Pavenham (10.5 km)](#6-odell-to-pavenham-105-km)
+- [Pavenham to Bedford (15.5 km)](#7-pavenham-to-bedford-155-km)
 
 #### 1. Syresham to Buckingham (12 km)
-The first part of the way starts *near* the source of the river in [Syresham](./places/syresham.html).
+The first part of the way starts *near* the source of the river in Syresham.
 
 <img class="rounded card-img-top" src="../assets/images/1.png" alt="syresham to buckingham">
 
@@ -56,9 +54,7 @@ For purists, near might not feel near enough and they would like to start at the
 
 If so, you could walk up the road towards Wappenham where there is a puddle by Wappenham Lodge Farm. However, the source is contested as there is a more westerly spring in Farthinghoe with the appropriate name of Ouse Well.
 
-There are [26 waterbodies](https://environment.data.gov.uk/catchment-planning/OperationalCatchment/3491) that feed in to the headwaters of the Great Ouse. Feel free to start at a different point if you'd like - it's not cheating, it's just how freshwater works.
-
-If every journey starts with a single step then doesn't every river start with a drop of rain?
+There are [26 waterbodies](https://environment.data.gov.uk/catchment-planning/OperationalCatchment/3491) that feed in to the headwaters of the Great Ouse. Feel free to start at a different point if you'd like, after all, that's just how freshwater works, or to put it in fancier terms: if every journey starts with a single step then doesn't every river start with a drop of rain?
 
 Syresham does have the obvious advantage that it's on a bus route. Check out the [Syresham](./places/syresham.html) page to find out how to get there.
 
@@ -305,7 +301,7 @@ It's also where we join another walking route, the [John Bunyan](https://en.wiki
 </div>
 </div>
 
-#### 6. Pavenham to Bedford (15.5 km)
+#### 7. Pavenham to Bedford (15.5 km)
 
 <img class="rounded card-img-top" src="../assets/images/7.png" alt="Pavenham to Bedford">
 
@@ -375,7 +371,14 @@ From Bedford onwards we'll see a series of places that have benefitted from trad
 
 <img class="rounded card-img-top" src="../assets/images/navigation.png" alt="headwaters">
 
-#### Bedford to Great Barford (11 km)
+### legs
+- [Bedford to Great Barford (11 km)](#1-bedford-to-great-barford-11-km)
+- [Great Barford to St Neots (15.5 km)](#2-great-barford-to-st-neots-155-km)
+- [St Neots to Godmanchester (16.4 km)](#3-st-neots-to-godmanchester-164-km)
+- [Godmanchester to Holywell (12.5 km)](#4-godmanchester-to-holywell-125-km)
+- [Holywell to Earith (7.5 km)](#5-holywell-to-earith-75-km)
+
+#### 1. Bedford to Great Barford (11 km)
 
 <img class="rounded card-img-top" src="../assets/images/2/1.png" alt="Pavenham to Bedford">
 
@@ -431,7 +434,7 @@ The route continues past Willington Lake and then along the Great Ouse up to the
 
 Great Barford is a popular place for paddling - mainly upstream as 200 meters downstream is a weir (and sewage works). The village also has a friendly pub close to the bridge.
 
-#### Great Barford to St Neots (15.5 km)
+#### 2. Great Barford to St Neots (15.5 km)
 
 <img class="rounded card-img-top" src="../assets/images/2/2.png" alt="Pavenham to Bedford">
 
@@ -529,7 +532,7 @@ Eaton Socon is split from St Neots by the Great Ouse and walks from here into St
 </div>
 </div>
 
-#### St Neots to Godmanchester (16.4 km)
+#### 3. St Neots to Godmanchester (16.4 km)
 
 <img class="rounded card-img-top" src="../assets/images/2/3.png" alt="Pavenham to Bedford">
 
@@ -572,30 +575,113 @@ The East Coast Mainline railway runs parallel to the river and increasing makes 
 
 Buckden also offers some diverting walks and [Buckden Towers](https://www.buckden-towers.org.uk/), former home of the bishops of Lincoln is worth a look.
 
-The route then continues through past Brampton Mill which has a pub (and an Environment Agency site) and across the common to Godmanchester. This is also an opportunity to go into Huntingdon and visit the Oliver Cromwell Museum.
+The route then continues through past Brampton Mill which has a pub (and an Environment Agency site) and across the common to Godmanchester. At this point, it is as easy to go to Huntingdon as Godmanchester which is where most of the facilities are as well as the bus and railway stations.
+It's also a chance to pop to the pleasingly compact [Oliver Cromwell Museum](https://www.cromwellmuseum.org/).
 
-#### Godmanchester to Holywell (12.5 km)
+#### 4. Godmanchester to Holywell (12.5 km)
 
 <img class="rounded card-img-top" src="../assets/images/2/4.png" alt="Pavenham to Bedford">
 
-some paths a little bit confusing but generally well marked and quite accessible
-pass Houghton Mill where people paddle
-Holt island at St Ives
+The path out of Godmanchester is a little bit confusing as it heads to and then through the Godmanchester Nature Reserve but becomes clearer as it follows the river along Hemingford Meadow. 
 
-#### Holywell to Earith (7.5 km)
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/2/hemmingford_meadow.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/2/hemmingford_meadow_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+The route heads through Houghton Mill which has become a popular spot to paddle and swim.
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/2/houghton_mill.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/2/houghton_mill_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+<img src="../assets/images/2/houghton_mill_3.jpg" class="rounded card-img-top" alt="...">
+
+Concerns over water quality have led a local group to take matters into their own hands and have started carrying out their own testing.
+
+The route then carries alongside Houghton Meadows and the Great Ouse into St Ives but not before passing [Holt Island](https://www.holtisland.org/) which is worth a detour. It's also a chance to learn about the [history of the island](https://www.holtisland.org/history-of-holt-island-wildlife/) and the philantropist who made a valuable donation to the town.
+
+St Ives is an example of a place that grew in prosperity thanks to trade links despite its vulnerability to flooding.
+
+The bridge is unique - not because it has its own chapel (there are three others in England) but because the chapel also spent time as a [bawdy house](https://en.wikipedia.org/wiki/St_Ives_Bridge)
+<img src="../assets/images/2/st_ives_bridge.jpg" class="rounded card-img-top" alt="...">
+
+Continuing to Holywell means being able to stay in the [Old Ferry Boat](https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-boat). It's also a good place to visit the [Fen Drayton Lakes Reserve](https://www.rspb.org.uk/days-out/reserves/fen-drayton-lakes)
+
+#### 5. Holywell to Earith (7.5 km)
 
 <img class="rounded card-img-top" src="../assets/images/2/5.png" alt="Pavenham to Bedford">
 
-### Fens: Ely to KingsLynn
+This short route takes a path to the end of this section of the walk and we can now safely say, we are in the Fens. This is the point where managing water has been the No. 1 priority for the last 300 years. What place better to see how landscape has been managed as well as get a glimpse of how things used to be before the Dutch engineers arrived. The contrast couldn't be clearer between the order of the Fen drains and [Ouse Fen Reserve](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/ouse-fen/).
+
+It's also worth looking at the bulwark.
+
+### Fens: Ely to Kings Lynn
 
 <img class="rounded card-img-top" src="../assets/images/fens.png" alt="fens">
 
-The Fens are unique - or at least unique to England. Over in the Netherlands, reclaimed land put to good use is commonplace, but this landscape created with the help of a Dutch engineer has been feeding England since the 18th Century. 
+The Fens are unique - or at least unique to England. Over in the Netherlands, reclaimed land put to good use is commonplace, but this landscape created with the help of a [Dutch engineer](https://en.wikipedia.org/wiki/Cornelius_Vermuyden) has been feeding England since the Civil War. 
 
-In the 1920's when Rev. Farrar decided to recreate a 'three men in a boat' for the Great Ouse, he gave up on the Fens. It was just too much distance with too few features. Compared to the walks in the previous sections, these are sparse in features and long in distance, for practical reaons. Nevertheless, they offer a profound lesson in how we use land and where we can provide opportunities to let nature co-exist.
+Compared to the walks in the previous sections, these are sparser in features and, for practical reaons, longer in distance (there are some suggested places to stop en-route). Nevertheless, they offer a profound lesson in how we use land and where we can provide opportunities to let nature co-exist.
 
-#### Earith to Ely (25 km)
+### legs
+- [Earith to Ely (25 km)](#1-earith-to-ely-25-km)
+- [Ely to Downham Market (28 km)](#2-ely-to-downham-market-28-km)
+- [Downham Market to Kings Lynn (18.5 km)](#3-downham-market-to-kings-lynn-185-km)
 
-#### Ely to Downham Market (28 km)
+#### 1. Earith to Ely (25 km)
+From here, the route seems to go in the wrong direction, heading East-South-East, around Upper Delphs, Ewell Fen, Holme Fen, Upper Cuts, Middle Cuts and Chear Fen - all names for stretches of reclaimed land. At Stretham Mere, the route heads back in the right direction past the [Stretham Old Engine](https://www.strethamoldengine.com/) which used to be one of many engines carrying out the drainage work in the Fens. 
+and the [Red Lion](https://www.theredlionstretham.co.uk/) in Stretham offers food, drink and a bed for the night, in case the journey to Ely is a fen too far.
 
-#### Downham Market to Kings Lynn (18.5 km)
+The walk 'up' to Ely which, being 26 metres above sea level is the hights land around here, is rewarded with some great views and a suitably splendid Cathedral. If you arrive around May Bank holiday, you can join in the fun of [Eel Day](https://en.wikipedia.org/wiki/Ely_Eel_Day) when the city's namesake is celebrated.
+
+#### 2. Ely to Downham Market (28 km)
+At Ely, the Ouse Valley Way combines with the [Fen Rivers Way](https://www.norfolk.gov.uk/article/42895/Fen-Rivers-Way-Kings-Lynn-to-Cambridge) and heads through the fens to Brandon Creek where the Great Ouse is joined by the Little Ouse and continues on to Denver Sluice.
+
+The Sluice is all part of the great system of fenland water control. The river (combining with the Old and New Bedford Rivers which were last seen at Earith) is then split between a tidal and non-tidal flow and the path passes between the two.
+
+A little further on is the pleasant town of [Downham Market](../_places/downham_market.html), which these days is as much commuter town to Cambridge as it is a market.
+
+#### 3. Downham Market to Kings Lynn (18.5 km)
+From Downham Market the way continues between the two 'rivers' through the Wiggenhalls. First Wiggenhall St Mary Magdalen (where there's a pub, the Cock Inn), then Wiggenhall St Peter where there is a ruined church.
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/wiggenshalls.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/wiggenshalls_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+At Wiggenhall St Germans there's also is a pub to prepare for the final stretch.
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/wiggenshalls_3.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/wiggenshalls_4.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+As the way draws towards Kings Lynn, the two 'rivers' combine and we pass the industrial outskirts before reaching the quay where the way ends. 
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/kings_lynn.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/kings_lynn_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+From there, the river flows out to sea.
+<img src="../assets/images/3/kings_lynn_3.jpg" class="rounded card-img-top" alt="...">
