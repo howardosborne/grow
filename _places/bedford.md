@@ -11,9 +11,11 @@ Bedford, as the name suggests, was founded as a ford on the Great Ouse and becam
 
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
+### Things to do
 Stroll along the Embankment
 Visit [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum)
 Also worth looking at the fascinating [Panacea Museum](https://panaceatrust.org/)
+
 Thanks to the large influx of Italians after after the War, followed by people from the Indian sub-continent, finding something interesting to eat isn't an issue.
 
 ### Accommodation

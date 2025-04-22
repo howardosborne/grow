@@ -621,9 +621,47 @@ Continuing to Holywell means being able to stay in the [Old Ferry Boat](https://
 
 <img class="rounded card-img-top" src="../assets/images/2/5.png" alt="Pavenham to Bedford">
 
-This short route takes a path to the end of this section of the walk and we can now safely say, we are in the Fens. This is the point where managing water has been the No. 1 priority for the last 300 years. What place better to see how landscape has been managed as well as get a glimpse of how things used to be before the Dutch engineers arrived. The contrast couldn't be clearer between the order of the Fen drains and [Ouse Fen Reserve](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/ouse-fen/).
+This short route takes a path to the end of this section of the walk and we can now safely say, we are in the Fens. This is the point where managing water has been the No. 1 priority for the last 300 years. 
 
-It's also worth looking at the bulwark.
+The Old Bedford River or 30-foot drain was created first and locals walk their dogs along the top, although probably not all the way to Denver.
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/30_foot_drain.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/30_foot_drain_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+A more substantial New Bedford River (100-foot drain) was created in parallel and you could also walk along here to get to Denver Sluice.
+
+<img src="../assets/images/3/100_foot_drain.jpg" class="rounded card-img-top" alt="...">
+
+The land in between has, in parts, become a wildlife habitat.
+<img src="../assets/images/3/earith_3.jpg" class="rounded card-img-top" alt="...">
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/earith.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/earith_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+While here, there's a chance to look as the Civil War fortification, the Earith Bulwark, which is now a rabbit warren. However, from the ground, it's hard to make sense of the earthworks and the pattern only really becomes visible from the air.
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/earith_bulwark.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/earith_bulwark_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+For a glimpse of how things used to be before the Dutch engineers arrived, you could visit the [Ouse Fen Reserve](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/ouse-fen/).
 
 ### Fens: Ely to Kings Lynn
 
@@ -642,7 +680,34 @@ Compared to the walks in the previous sections, these are sparser in features an
 From here, the route seems to go in the wrong direction, heading East-South-East, around Upper Delphs, Ewell Fen, Holme Fen, Upper Cuts, Middle Cuts and Chear Fen - all names for stretches of reclaimed land. At Stretham Mere, the route heads back in the right direction past the [Stretham Old Engine](https://www.strethamoldengine.com/) which used to be one of many engines carrying out the drainage work in the Fens. 
 and the [Red Lion](https://www.theredlionstretham.co.uk/) in Stretham offers food, drink and a bed for the night, in case the journey to Ely is a fen too far.
 
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/stretham.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/stretham_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
 The walk 'up' to Ely which, being 26 metres above sea level is the hights land around here, is rewarded with some great views and a suitably splendid Cathedral. If you arrive around May Bank holiday, you can join in the fun of [Eel Day](https://en.wikipedia.org/wiki/Ely_Eel_Day) when the city's namesake is celebrated.
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/ely.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/ely_2.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+<div class="row">
+<div class="col-6">
+<img src="../assets/images/3/ely_3.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-6">
+<img src="../assets/images/3/ely_4.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
 
 #### 2. Ely to Downham Market (28 km)
 At Ely, the Ouse Valley Way combines with the [Fen Rivers Way](https://www.norfolk.gov.uk/article/42895/Fen-Rivers-Way-Kings-Lynn-to-Cambridge) and heads through the fens to Brandon Creek where the Great Ouse is joined by the Little Ouse and continues on to Denver Sluice.
