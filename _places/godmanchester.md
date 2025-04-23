@@ -6,8 +6,10 @@ lat: 52.31882767438056
 lng: -0.17000009773498512
 background: /assets/images/godmanchester.jpg
 ---
-
+Godmanchester, like Eaton Socon, is a town on the Great Ouse with a more substantial neighbour across the water. As a result, there interesting things here but most of the facilities are in Huntingdon.
 <div id="map" class="col-md-12" style="height: 400px;"></div>
+
+The Chinese Bridge provides a focus for the town connecting it to a water meadow.
 
 ### Accommodation
 [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Godmanchester)

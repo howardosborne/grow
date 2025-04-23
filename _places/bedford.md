@@ -11,12 +11,19 @@ Bedford, as the name suggests, was founded as a ford on the Great Ouse and becam
 
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
-### Things to do
-Stroll along the Embankment
-Visit [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum)
-Also worth looking at the fascinating [Panacea Museum](https://panaceatrust.org/)
+It's a place that has made the most of its river setting and many locals take advantage of the strollable Embankment and Priory Country Park. 
 
-Thanks to the large influx of Italians after after the War, followed by people from the Indian sub-continent, finding something interesting to eat isn't an issue.
+You will also ususally see rowers on the river from local schools and enthusiasts alike.
+
+If you fancy a paddle yourself then you can hire a canoe, kayak or paddleboard from [Canoe Trail](https://www.canoetrail.co.uk/canoe-kayak-sup-hire/bedford). You can even hire a canoe to paddle to Great Barford which is all part of the Ouse Valley Way.
+
+But is is safe to go in the river? One group who are most likely to have the answers are [BedsGOVET](https://www.bedsgovet.org/) who regularly monitor for water quality.
+
+The [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum) is a good place to learn more about the preacher and author.
+
+It's also worth spending some time at the fascinating [Panacea Museum](https://panaceatrust.org/) where a group of locals spent the bulk of the 20th Century preparing for the second coming in a very English way.
+
+In the 1950's, the London Brick Company, which had a brickworks nearby, looked to Italy for recruitment. As a result, 30% of modern day Bedford folk have Italian descent. Significant immigration from other parts of the world have made modern day Bedford an ethnically diverse place to be. Finding something interesting to eat isn't an issue...
 
 ### Accommodation
 [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Bedford)

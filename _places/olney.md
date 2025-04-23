@@ -6,18 +6,20 @@ lat: 52.15372899991827
 lng: -0.7018320955237471
 background: /assets/images/olney.jpg
 ---
-
+Olney is a comfortable Georgian market town of around 6,500 people that prides itself as the 'Home of Amazing Grace'.
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
+The [Cowper and Newton museum](https://cowperandnewtonmuseum.org.uk/) is a good place to find out why.
+
+It's also home to [pancake racing](http://olneypancakerace.org/), but if you're here at the wrong time of year, you could always make up your own race with something from the [Pancake Parlour](https://www.olneypancakeparlour.co.uk/).
 
 ### Accommodation
-[Bull Hotel](https://www.bullhotelolney.co.uk/)
+Two good options for staying in Olney are the [Bull Hotel](https://www.bullhotelolney.co.uk/) and
+[the Swan](https://www.theswanolney.co.uk/).
 
-[The Swan](https://www.theswanolney.co.uk/)
 
-
-### getting there
+### Getting there
 The No. 21 bus connects to [Newport Pagnell](./newport-pagnell.html) via Sherington.
-The No. 41 connects Olney with [Bedford](./bedford.html) via Turvey and Bromham which are both on route to Beford, but getting to places like Odell or Pavenham is more convoluted.
+The No. 41 connects Olney with [Bedford](./bedford.html) via Turvey and Bromham which are both on route to Beford, but getting to places like [Harrold](./harrold.html), [Odell](./odell.html) or [Pavenham](./pavenham.html) is more convoluted.
 
 [Stagecoach](https://www.stagecoachbus.com/)

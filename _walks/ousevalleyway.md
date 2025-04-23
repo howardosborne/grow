@@ -305,7 +305,7 @@ It's also where we join another walking route, the [John Bunyan](https://en.wiki
 
 <img class="rounded card-img-top" src="../assets/images/7.png" alt="Pavenham to Bedford">
 
-From Pavenham the route is back on the river and follows around a sloping bank to the river. The constant flow of water from the limestone ridge  means that some of the ground is marshy all year round, which is an inconveience for walkers but a delight for nature. As a result, it has earned its status as a Site of Special Scientific Interest.
+From Pavenham the route is back on the river and follows around a sloping bank to the river. The constant flow of water from the limestone ridge means that some of the ground is marshy all year round, which is an inconveience for walkers but a delight for nature. As a result, it has earned its status as a [Site of Special Scientific Interest](https://en.wikipedia.org/wiki/Stevington_Marsh).
 
 <div class="row">
 <div class="col-6">
@@ -623,20 +623,20 @@ Continuing to Holywell means being able to stay in the [Old Ferry Boat](https://
 
 This short route takes a path to the end of this section of the walk and we can now safely say, we are in the Fens. This is the point where managing water has been the No. 1 priority for the last 300 years. 
 
-The Old Bedford River or 30-foot drain was created first and locals walk their dogs along the top, although probably not all the way to Denver.
+The Old Bedford River was created first and locals walk their dogs along the top, although probably not all the way to Denver.
 
 <div class="row">
 <div class="col-6">
-<img src="../assets/images/3/30_foot_drain.jpg" class="rounded card-img-top" alt="...">
+<img src="../assets/images/3/old_bedford_river.jpg" class="rounded card-img-top" alt="...">
 </div>
 <div class="col-6">
-<img src="../assets/images/3/30_foot_drain_2.jpg" class="rounded card-img-top" alt="...">
+<img src="../assets/images/3/old_bedford_river_2.jpg" class="rounded card-img-top" alt="...">
 </div>
 </div>
 
 A more substantial New Bedford River (100-foot drain) was created in parallel and you could also walk along here to get to Denver Sluice.
 
-<img src="../assets/images/3/100_foot_drain.jpg" class="rounded card-img-top" alt="...">
+<img src="../assets/images/3/new_bedford_river.jpg" class="rounded card-img-top" alt="...">
 
 The land in between has, in parts, become a wildlife habitat.
 <img src="../assets/images/3/earith_3.jpg" class="rounded card-img-top" alt="...">

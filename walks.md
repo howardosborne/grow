@@ -6,6 +6,8 @@ background: /assets/images/walks.jpg
 
 There are many walks along the Great Ouse of varying lengths, sights and ease of access.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1WSb0evEtDClz1pDCUyroqWz4eJFZ2Wc&ehbc=2E312F" width="100%" height="480"></iframe>
+
 ## Ouse Valley Way
 The epic 150 mile walk from source to sea is the [Ouse Valley Way](./walks/ousevalleyway.html).
 
