@@ -7,7 +7,7 @@ lng: -0.848775
 background: /assets/images/stony.jpg
 ---
 
-Old coaching town on Watling street that has become part of the city of Milton Keynes.
+Stony Stratford is an old coaching town on Watling street that has become part of the city of Milton Keynes.
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 As the name suggests, it's where Watling Street crossed the Great Ouse (street ford) and is a good place to stay or at least get something to eat and drink.
 

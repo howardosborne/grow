@@ -22,7 +22,7 @@ layout: default
       </div>
     </div>
   </header>
-  <script src="/grow/assets/map.js"></script>
+  <script src="/assets/map.js"></script>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 col-md-12 mx-auto">

@@ -4,29 +4,39 @@ title: Walks
 background: /assets/images/walks.jpg
 ---
 
-There are many walks along the Great Ouse of varying lengths, sights and ease of access.
+There are many walks that will take you to and along the Great Ouse varying vary in length, sights and ease of access.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1WSb0evEtDClz1pDCUyroqWz4eJFZ2Wc&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## Ouse Valley Way
-The epic 150 mile walk from source to sea is the [Ouse Valley Way](./walks/ousevalleyway.html).
+Perhaps *the* epic walk from source to sea is the 150 mile Ouse Valley Way. [Overview of the route](./walks/ousevalleyway.html).
+
+The Great Ouse Valley Trust have also produced a set of printable leaflets for walks along the trail, with a focus on the stretch from Eaton Socon to Earith. [Great Ouse Valley Trust](https://greatousevalleytrust.org.uk/ouse-valley-way/our-long-distance-footpath/)
+
+## Fen Rivers Way
+If it's the Fens that fascinate, then why not follow the Fen Rivers Way from Cambridge up to Ely where this walk merges with the Ouse Valley Way and continues to King Lynn. Norfolk Council have provided this [information](https://maps.norfolk.gov.uk/trails/?tc=PRO/357)
+
+## Bernwood Jubilee Way
+Following part of the Bernwood Jubilee Way provides an interesting alternative by following the path of the Padbury Brook (Twins) which feeds into the Great Ouse. Buckinghamshire Council have produced a set of [downloadable walking routes](https://www.buckinghamshire.gov.uk/parking-roads-and-transport/walking-cycling-and-wheeling/view-walking-cycling-and-wheeling-routes-2/bernwood-jubilee-way-walking-routes/)
+
+## John Bunyan Trail
+Progress through the Slough of Despond in the footsteps of John Bunyan.
+The Wildlife Trust have produced a [donloadable trail booklet](https://www.wildlifebcn.org/sites/default/files/2021-09/john_bunyan_trail_-_book.pdf)
+
+## Rothschild Way 
+Rothschild Way is a fenland footpath commemorating the conservation work of Charles Rothschild.  The route is undertaken by a number of people annually in June through the Rothschild Way Challenge event, set up to raise funds for our work on the Great Fen.
+[more infomation](https://www.greatfen.org.uk/explore/walks-trails/rothschild-way)
+
+## King Charles III England Coastal Path
+If Kings Lynn is just too far from the Sea for you then why not continue your walk up to Hunstanton on the [King Charles III England Coastal Path](https://en.wikipedia.org/wiki/King_Charles_III_England_Coast_Path)
 
 ## Other Walks
-[Bernwood Jubilee Way](https://www.buckinghamshire.gov.uk/parking-roads-and-transport/walking-cycling-and-wheeling/view-walking-cycling-and-wheeling-routes-2/bernwood-jubilee-way-walking-routes/)
 
 [Milton Keynes Boundary Walk](https://ldwa.org.uk/BedsBucksAndNorthants/W/8778/2023-bbn40-mik-boundary-walk.html)
 
 [Three Shires Way](https://ldwa.org.uk/ldp/members/show_path.php?path_name=Three+Shires+Way)
 
-[John Bunyan Trail](https://www.wildlifebcn.org/sites/default/files/2021-09/john_bunyan_trail_-_book.pdf)
-
 [Horth Bedfordshire Heritage Trail](https://bedsarchives.bedford.gov.uk/PDFs/North-Bedfordshire-Heritage-Trail.pdf)
-
-[Fen Rivers Way](https://maps.norfolk.gov.uk/trails/?tc=PRO/357)
-
-[Rothschild Way](https://www.greatfen.org.uk/explore/walks-trails/rothschild-way)
-
-[King Charles III England Coastal Path](https://en.wikipedia.org/wiki/King_Charles_III_England_Coast_Path)
 
 [Pathfinder long distance walk](https://ldwa.org.uk/ldp/members/show_path.php?path_name=Pathfinder+Long+Distance+Walk)
 
