@@ -8,7 +8,7 @@ background: /assets/images/bedford.jpg
 ---
 
 Bedford, as the name suggests, was founded as a ford on the Great Ouse and became a prospeous market town thanks to the river being made navigable. 
-
+<!--more-->
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
 It's a place that has made the most of its river setting and many locals take advantage of the strollable Embankment and Priory Country Park. 

@@ -4,11 +4,11 @@ title:  "Buckingham"
 categories: places
 lat: 52.0019278	
 lng: -0.986902381
-background: /assets/images/buckingham.jpg
+background: /assets/images/1/Buckingham canal.jpg
 ---
 
 Old market town with a selection of places to eat and drink. Market days are Tuesday and Saturday which take over Market Hill and the High Street cattle pens. 
-
+<!--more-->
 <div id="map" class="col-md-12" style="height: 400px;"></div>
 
 The architectural highlight is the Old Gaol which was built to help revive the town's fortunes after the great fire. Alas, it didn't do the trick and county town status has stayed with Aylesbury ever since. 

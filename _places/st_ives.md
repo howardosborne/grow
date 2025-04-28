@@ -4,7 +4,7 @@ title:  "St Ives"
 categories: places
 lat: 52.32334013148187
 lng: -0.07443862003660841
-background: /assets/images/st_ives_bridge.jpg
+background: /assets/images/2/st_ives_2.jpg
 ---
 St Ives is a historic market town in Huntingdonshire.
 <div id="map" class="col-md-12" style="height: 400px;"></div>

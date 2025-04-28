@@ -4,7 +4,7 @@ title: Walks
 background: /assets/images/walks.jpg
 ---
 
-There are many walks that will take you to and along the Great Ouse varying vary in length, sights and ease of access.
+There are many walks that will take you to and along the Great Ouse varying in length, sights and ease of access.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1WSb0evEtDClz1pDCUyroqWz4eJFZ2Wc&ehbc=2E312F" width="100%" height="480"></iframe>
 
@@ -24,11 +24,11 @@ Progress through the Slough of Despond in the footsteps of John Bunyan.
 The Wildlife Trust have produced a [donloadable trail booklet](https://www.wildlifebcn.org/sites/default/files/2021-09/john_bunyan_trail_-_book.pdf)
 
 ## Rothschild Way 
-Rothschild Way is a fenland footpath commemorating the conservation work of Charles Rothschild.  The route is undertaken by a number of people annually in June through the Rothschild Way Challenge event, set up to raise funds for our work on the Great Fen.
+Rothschild Way is a fenland footpath commemorating the conservation work of Charles Rothschild.  The route is undertaken by a number of people annually in June through the Rothschild Way Challenge event which raises funds for work on the Great Fen.
 [more infomation](https://www.greatfen.org.uk/explore/walks-trails/rothschild-way)
 
 ## King Charles III England Coastal Path
-If Kings Lynn is just too far from the Sea for you then why not continue your walk up to Hunstanton on the [King Charles III England Coastal Path](https://en.wikipedia.org/wiki/King_Charles_III_England_Coast_Path)
+If Kings Lynn is too far from the Wash for you then why not continue to walking up to Hunstanton on the [King Charles III England Coastal Path](https://en.wikipedia.org/wiki/King_Charles_III_England_Coast_Path)
 
 ## Other Walks
 
@@ -36,11 +36,11 @@ If Kings Lynn is just too far from the Sea for you then why not continue your wa
 
 [Three Shires Way](https://ldwa.org.uk/ldp/members/show_path.php?path_name=Three+Shires+Way)
 
-[Horth Bedfordshire Heritage Trail](https://bedsarchives.bedford.gov.uk/PDFs/North-Bedfordshire-Heritage-Trail.pdf)
+[North Bedfordshire Heritage Trail](https://bedsarchives.bedford.gov.uk/PDFs/North-Bedfordshire-Heritage-Trail.pdf)
 
 [Pathfinder long distance walk](https://ldwa.org.uk/ldp/members/show_path.php?path_name=Pathfinder+Long+Distance+Walk)
 
-# useful resources
+# Useful resources
 [OS maps](https://explore.osmaps.com/)
 
 [Komoot](https://www.komoot.com/)

@@ -4,7 +4,7 @@ title:  "Newport Pagnell"
 categories: places
 lat: 52.086789581444954
 lng: -0.7226481689292037
-background: /assets/images/newport.jpg
+background: /assets/images/1/newport_pagnell.jpg
 ---
 Newport Pagnell is one of the 13 historic towns and villages that make up the city of Milton Keynes.
 <div id="map" class="col-md-12" style="height: 400px;"></div>
