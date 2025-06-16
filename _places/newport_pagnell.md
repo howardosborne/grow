@@ -7,7 +7,6 @@ lng: -0.7226481689292037
 background: /assets/images/1/newport_pagnell.jpg
 ---
 Newport Pagnell is one of the 13 historic towns and villages that make up the city of Milton Keynes.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 To the north of the town is the expansive Bury Field which has a small beach on the banks of the Great Ouse and is a popular area for wild swimming, particularly dogs...
 

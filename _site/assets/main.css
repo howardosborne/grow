@@ -9640,4 +9640,12 @@ header.thinmasthead .post-heading .meta a {
   }
 }
 
+path.leaflet-interactive {
+  outline: none;
+}
+
+img {
+  margin-bottom: 1px;
+}
+
 /*# sourceMappingURL=main.css.map */

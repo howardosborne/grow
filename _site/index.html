@@ -8,7 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    Great Ouse Ways
+    Great Ouse Ways - Great Ouse Ways
+    
   </title>
 
   <meta name="description" content="A personal guide to exploring the Great Ouse">
@@ -22,90 +23,14 @@
   <link rel="canonical" href="http://localhost:4000/">
   <link rel="alternate" type="application/rss+xml" title="Great Ouse Ways" href="/feed.xml">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
 </head>
 
 
-<body>
+<body onload="loadWaterbodies()">
 
-  <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-  <div class="container">
-    <a class="navbar-brand" href="/">Great Ouse Ways</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
-      <i class="fa fa-bars"></i>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/walks.html">Walks</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/swimming.html">Swimming</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/paddling.html">Paddling</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/boating.html">Boating</a>
-        </li>       
-        <li class="nav-item">
-          <a class="nav-link" href="/places.html">Places</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/posts.html">News</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/about.html">About</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-<!--
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-          Dropdown
-        </a>
-        <div class="dropdown-menu">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
--->
-
-  <header class="masthead" style="background-image: url('/assets/images/main.jpg')">
+<header class="masthead" style="background-image: url('/assets/images/main.jpg')">
+  
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -121,58 +46,51 @@
     </div>
   </header>
 
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
-    <div class="row">
-    <div class="col-lg-8 col-md-9 mx-auto">
-            <p>The Great Ouse and its tributaries are precious and fascinating. This site hopes to be a starting point to help you get to know them better whether by <a href="./walks.html">walking</a>, <a href="./paddling.html">paddling</a>, <a href="./swimming.html">swimming</a> or <a href="./boating.html">hiring a boat</a>.</p>
-
-<p><img class="rounded card-img-top" src="./assets/images/great_ouse_catchment.jpg" alt="NP" /></p>
-
-
-    </div>
-    <div class="col-lg-4 col-md-3 mx-auto">
-
-        <!-- Pager -->
-        <div class="clearfix">
-          <a href="/posts">Latest news &rarr;</a>
-        </div>
-        <!-- Home Post List -->
-        
-
-        <article class="post-preview">
-          <a href="/posts/2025/04/05/welcome-to-great-ouse-ways.html">
-            <h2 class="post-subtitle">Ouse Valley Way Marathon</h2>
-          </a>
-          <p class="post-meta"><span class="reading-time" title="Estimated read time">
-  
-   1 min  read </span>
-            
-          </p>
-        </article>
-
-        <hr>
-
-        
-
-        <article class="post-preview">
-          <a href="/posts/2025/04/05/getting-involved.html">
-            <h2 class="post-subtitle">Getting involved</h2>
-          </a>
-          <p class="post-meta"><span class="reading-time" title="Estimated read time">
-  
-   1 min  read </span>
-            
-          </p>
-        </article>
-
-        <hr>
-
-        
-
-      </div>
+    <a class="navbar-brand" href="/">Great Ouse Ways</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/walks.html">Walking</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/paddling.html">Paddling</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/swimming.html">Swimming</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/boating.html">Boating</a>
+        </li>       
+        <li class="nav-item">
+          <a class="nav-link" href="/join.html">Get Involved</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/posts.html">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about.html">About</a>
+        </li>
+      </ul>
     </div>
   </div>
+</nav>
 
+
+  <div class="container">
+
+  <p>The Great Ouse and its tributaries are precious and fascinating. This site hopes to be a starting point to help you get to know them better whether by <a href="./walks.html">walking</a>, <a href="./paddling.html">paddling</a>, <a href="./swimming.html">swimming</a>, <a href="./boating.html">hiring a boat</a> or joining one of the <a href="./join.html">groups</a> working to improve the river system.</p>
+
+<div id="map" class="col-md-12" style="height: 600px;"></div>
+
+
+  </div>
 
   <!-- Footer -->
 
@@ -195,7 +113,7 @@
           
           
           <li class="list-inline-item">
-            <a href="https://bsky.app/profile/greatouseways">
+            <a href="https://bsky.app/profile/greatouseways.bsky.social">
               <span class="fa-stack fa-lg">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg>
               </span>
@@ -215,13 +133,15 @@
 
 
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
-
 <script src="/assets/scripts.js"></script>
-
-
-
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+    getSettings()
+</script>
+  
+  <script src="/assets/map.js"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id="></script>

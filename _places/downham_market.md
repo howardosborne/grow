@@ -7,8 +7,6 @@ lng: 0.3692407003595178
 background: /assets/images/downham_market.jpg
 ---
 Downham Market is a town of around 10,000 people and, as the name suggests, developed as a place to buy and sell produce from the Fens and was famed for its butter market.
-<!--more-->
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 These days the toing a froing is more likely to be commuters who would rather live here than pricy Cambridge. However, it's former glory days as a market town are relived every Friday and Saturday.
 

@@ -7,7 +7,6 @@ lng: 0.40098147553041885
 background: /assets/images/3/kings_lynn.jpg
 ---
 The 40,000 strong town of King's Lynn has a long history of trade and has a collection of buildings reflecting its commercial past.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 Nikolaus Pevsner in his building of Britain series described the Custom House as "one of the most perfect buildings ever built".
 

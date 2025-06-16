@@ -7,7 +7,6 @@ lng: 0.2644206051502959
 background: /assets/images/3/ely_4.jpg
 ---
 Ely is a great place to stop and repose when walking either the Ouse Valley Way or Fen Rivers Way.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 The *city* of Ely, also known as the *Isle* of Ely, might feel like odd epithets for a town-sized place surrounded by dry land, but they are both clues to its past.
 

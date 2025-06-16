@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body onload="{{ page.loadFunction }}">
+
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl  }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 mx-auto">
+          <div class="page-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.description %}
+            <span class="subheading">{{ page.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {% include navbar.html %}
+
+  <div class="container">
+
+  {{ content }}
+
+  </div>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+  
+  <script src="{{ '/assets/map.js' }}"></script>
+
+  {% include google-analytics.html %}
+
+</body>
+
+</html>

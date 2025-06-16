@@ -4,12 +4,9 @@ title:  "Buckingham"
 categories: places
 lat: 52.0019278	
 lng: -0.986902381
-background: /assets/images/1/Buckingham canal.jpg
+background: /assets/images/buckingham.jpg
 ---
-
-Old market town with a selection of places to eat and drink. Market days are Tuesday and Saturday which take over Market Hill and the High Street cattle pens. 
-<!--more-->
-<div id="map" class="col-md-12" style="height: 400px;"></div>
+The old, but still growing, market town of Buckingham is worthwhile spending a some time to have a wander around.
 
 The architectural highlight is the Old Gaol which was built to help revive the town's fortunes after the great fire. Alas, it didn't do the trick and county town status has stayed with Aylesbury ever since. 
 
@@ -23,15 +20,13 @@ The river wardens also monitor the river and its banks with regular monitoring. 
 
 If you are here on a Sunday, you could meet the locals who tend the Edible Garden. If you have forgotten to bring any provisions with you, why not see what they have to offer?
 
+Market days are Tuesday and Saturday which take over Market Hill and the High Street cattle pens. 
+
 ### Accommodation
-[Villiers Hotel](https://www.villiers-hotel.co.uk/)
-
-[White Hart](https://www.greeneking.co.uk/pubs/buckinghamshire/white-hart)
-
-[booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Bedford)
+Two places to stay in town are [Villiers Hotel](https://www.villiers-hotel.co.uk/) and the 
+[White Hart](https://www.greeneking.co.uk/pubs/buckinghamshire/white-hart) although other options are available through [Booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Bedford)
 
 ### Getting there
-Buckingham can be reached from Oxford, Milton Keynes, Bedford and Aylesbury.
-The X5 goes to Stony Stratford, Milton Keynes Central and Bedford. 
-For getting to/from Syresham, change at Brackley (one bus a day goes directly).
+Buckingham can be reached from Oxford, Milton Keynes, Bedford and Aylesbury. The X5 goes to Stony Stratford, Milton Keynes Central and Bedford. For getting to/from Syresham, change at Brackley (one bus a day goes directly).
+
 [Bus departures](http://www.stagecoachbus.com/)

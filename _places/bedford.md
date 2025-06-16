@@ -6,10 +6,7 @@ lat: 52.13834442793227
 lng: -0.4674572440035926
 background: /assets/images/bedford.jpg
 ---
-
-Bedford, as the name suggests, was founded as a ford on the Great Ouse and became a prospeous market town thanks to the river being made navigable. 
-<!--more-->
-<div id="map" class="col-md-12" style="height: 400px;"></div>
+Bedford, as the name suggests, came about because it was a ford across the river and became a prospeous market town thanks to the river being made navigable. 
 
 It's a place that has made the most of its river setting and many locals take advantage of the strollable Embankment and Priory Country Park. 
 

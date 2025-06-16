@@ -7,7 +7,6 @@ lng: -0.07443862003660841
 background: /assets/images/2/st_ives_2.jpg
 ---
 St Ives is a historic market town in Huntingdonshire.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 It's an example of a place that grew in prosperity thanks to water-based trade links despite its vulnerability to flooding. As a result, it could spend money of structures such as its bridge, which is unique - not because it has its own chapel (there are three others in England) but because the chapel also spent time as a [bawdy house](https://en.wikipedia.org/wiki/St_Ives_Bridge)
 

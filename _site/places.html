@@ -23,8 +23,6 @@
   <link rel="canonical" href="http://localhost:4000/places.html">
   <link rel="alternate" type="application/rss+xml" title="Great Ouse Ways" href="/feed.xml">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
 </head>
 
 
@@ -34,29 +32,26 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand" href="/">Great Ouse Ways</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       Menu
       <i class="fa fa-bars"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/walks.html">Walks</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/swimming.html">Swimming</a>
+          <a class="nav-link" href="/walks.html">Walking</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/paddling.html">Paddling</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="/swimming.html">Swimming</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/boating.html">Boating</a>
         </li>       
         <li class="nav-item">
-          <a class="nav-link" href="/places.html">Places</a>
+          <a class="nav-link" href="/join.html">Get Involved</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/posts.html">News</a>
@@ -68,43 +63,7 @@
     </div>
   </div>
 </nav>
-<!--
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-          Dropdown
-        </a>
-        <div class="dropdown-menu">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
--->
 
   <!-- Page Header -->
 
@@ -125,290 +84,262 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-lg12 col-md-12 mx-auto">
 
-        <p>Here is a list of places along the Great Ouse with practical details of how to get there and where to stay.</p>
+        <p>Here are the great places along the Great Ouse with practical details of how to get there and where to stay.</p>
 
-<div class="container">
-    <div class="row">
-      <div class="col-lg-10 col-md-10 mx-auto">
-
-        <!-- Place List -->
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/bedford.jpg" class="card-img" style="max-height:300px" alt="Bedford" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/bedford.html">Bedford</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/1/Buckingham canal.jpg" class="card-img" style="max-height:300px" alt="Buckingham" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/buckingham.html">Buckingham</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/downham_market.jpg" class="card-img" style="max-height:300px" alt="Downham Market" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/downham-market.html">Downham Market</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/3/earith.jpg" class="card-img" style="max-height:300px" alt="Earith" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/earith.html">Earith</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/3/ely_4.jpg" class="card-img" style="max-height:300px" alt="Ely" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/ely.html">Ely</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/godmanchester.jpg" class="card-img" style="max-height:300px" alt="Godmanchester" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/godmanchester.html">Godmanchester</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/2/great_barford.jpg" class="card-img" style="max-height:300px" alt="Great Barford" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/great-barford.html">Great Barford</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/1/harrold_bridge_2.jpg" class="card-img" style="max-height:300px" alt="Harrold" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/harrold.html">Harrold</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/holywell.jpg" class="card-img" style="max-height:300px" alt="Holywell" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/holywell.html">Holywell</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/3/kings_lynn.jpg" class="card-img" style="max-height:300px" alt="Kings Lynn" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/kings-lynn.html">Kings Lynn</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/1/newport_pagnell.jpg" class="card-img" style="max-height:300px" alt="Newport Pagnell" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/newport-pagnell.html">Newport Pagnell</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/1/odell_church.jpg" class="card-img" style="max-height:300px" alt="Odell" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/odell.html">Odell</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/olney.jpg" class="card-img" style="max-height:300px" alt="Olney" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/olney.html">Olney</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/pavenham.jpg" class="card-img" style="max-height:300px" alt="Pavenham" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/pavenham.html">Pavenham</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/sharnbrook.jpg" class="card-img" style="max-height:300px" alt="Sharnbrook" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/sharnbrook.html">Sharnbrook</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/2/st_ives_2.jpg" class="card-img" style="max-height:300px" alt="St Ives" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/st-ives.html">St Ives</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/2/eaton_socon_weir.jpg" class="card-img" style="max-height:300px" alt="St Neots" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/st-neots.html">St Neots</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/1/stevington_postmill.jpg" class="card-img" style="max-height:300px" alt="Stevington" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/stevington.html">Stevington</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/stony.jpg" class="card-img" style="max-height:300px" alt="Stony Stratford" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/stony.html">Stony Stratford</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/stowe.jpg" class="card-img" style="max-height:300px" alt="Stowe" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/stowe.html">Stowe</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="card">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="/assets/images/syresham.jpg" class="card-img" style="max-height:300px" alt="Syresham" />
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5><a href="/places/syresham.html">Syresham</a></h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        </div>
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/bedford.jpg" class="card-img" style="max-height:300px" alt="Bedford" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/bedford.html">Bedford</a></h5>
+        <p class="card-text"></p><p>Bedford, as the name suggests, was founded as a ford on the Great Ouse and became a prospeous market town thanks to the river being made navigable. It's a place that has made the most of its river setting and many locals take advantage of the strollable Embankment and Priory Country Park.</p>
+      </div>
     </div>
   </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/buckingham.jpg" class="card-img" style="max-height:300px" alt="Buckingham" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/buckingham.html">Buckingham</a></h5>
+        <p class="card-text"></p><p>Old market town with a selection of places to eat and drink. Market days are Tuesday and Saturday which take over Market Hill and the High Street cattle pens.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/downham_market.jpg" class="card-img" style="max-height:300px" alt="Downham Market" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/downham-market.html">Downham Market</a></h5>
+        <p class="card-text"></p><p>Downham Market is a town of around 10,000 people and, as the name suggests, developed as a place to buy and sell produce from the Fens and was famed for its butter market.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/3/earith.jpg" class="card-img" style="max-height:300px" alt="Earith" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/earith.html">Earith</a></h5>
+        <p class="card-text"></p><p>Earith is village of around 1,500 people and one of the best places to get a sense of the work undertaken to create the Fens as they are now.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/3/ely_4.jpg" class="card-img" style="max-height:300px" alt="Ely" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/ely.html">Ely</a></h5>
+        <p class="card-text"></p><p>Ely is a great place to stop and repose when walking either the Ouse Valley Way or Fen Rivers Way. The *city* of Ely, also known as the *Isle* of Ely, might feel like odd epithets for a town-sized place surrounded by dry land, but they are both clues to its past.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/godmanchester.jpg" class="card-img" style="max-height:300px" alt="Godmanchester" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/godmanchester.html">Godmanchester</a></h5>
+        <p class="card-text"></p><p>Godmanchester, like Eaton Socon, is a town on the Great Ouse with a more substantial neighbour across the water. As a result, there interesting things here but most of the facilities are in Huntingdon. The Chinese Bridge provides a focus for the town connecting it to a water meadow.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/2/great_barford.jpg" class="card-img" style="max-height:300px" alt="Great Barford" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/great-barford.html">Great Barford</a></h5>
+        <p class="card-text"></p><p>Great Barford is a pleasant village of around 2,000 people with a pub and an old church but the star of the show is its expansive bridge, which has been keep ferrymen out of business since the 15th Century.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/1/harrold_bridge_2.jpg" class="card-img" style="max-height:300px" alt="Harrold" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/harrold.html">Harrold</a></h5>
+        <p class="card-text"></p><p>Harrold is an attractive limestone village of around 1,500 people, but it's best features are out of town. Harrold bridge is a popular put-in point for kayak and paddleboarders while the adjoining Country Park offers walks around the former gravel pit turned nature reserve.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/holywell.jpg" class="card-img" style="max-height:300px" alt="Holywell" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/holywell.html">Holywell</a></h5>
+        <p class="card-text"></p><p>The 80 house village of Holywell (also Holywell-cum-Needingworth) owes its name to the holy well fed by a spring in front of St John the Baptist church. What makes it a particularly pleasant place to be is the river setting and lack of a through road. The Old Ferry Boat is also a good place to stop over while walking the Ouse Valley Way.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/3/kings_lynn.jpg" class="card-img" style="max-height:300px" alt="Kings Lynn" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/kings-lynn.html">Kings Lynn</a></h5>
+        <p class="card-text"></p><p>The 40,000 strong town of King's Lynn has a long history of trade and has a collection of buildings reflecting its commercial past. Nikolaus Pevsner in his building of Britain series described the Custom House as "one of the most perfect buildings ever built".</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/newport.jpg" class="card-img" style="max-height:300px" alt="Newport Pagnell" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/newport-pagnell.html">Newport Pagnell</a></h5>
+        <p class="card-text"></p><p>Newport Pagnell is one of the 13 historic towns and villages that make up the city of Milton Keynes. To the north of the town is the expansive Bury Field which has a small beach on the banks of the Great Ouse and is a popular area for wild swimming, particularly dogs...</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/1/odell_church.jpg" class="card-img" style="max-height:300px" alt="Odell" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/odell.html">Odell</a></h5>
+        <p class="card-text"></p><p>Odell is a village of around 200 people which apparently takes its name from the woad that was gathered nearby. Any erstwhile dying industry has gone the same way as the castle that used to be here, but what has been left behind is a substantial church and a pub.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/olney.jpg" class="card-img" style="max-height:300px" alt="Olney" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/odell.html">Olney</a></h5>
+        <p class="card-text"></p><p>Olney is a comfortable Georgian market town of around 6,500 people that prides itself as the 'Home of Amazing Grace' and pancake racing.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/pavenham.jpg" class="card-img" style="max-height:300px" alt="Pavenham" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/pavenham.html">Pavenham</a></h5>
+        <p class="card-text"></p><p>Thanks to local limstone, the village of Pavenham has pretty buildings and a site of special scientific interest.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/sharnbrook.jpg" class="card-img" style="max-height:300px" alt="Sharnbrook" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/sharnbrook.html">Sharnbrook</a></h5>
+        <p class="card-text"></p><p>The village of Sharnbrook, named after the Sharn Brook which runs along the edge of the village can thank the local limestone for its looks.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/2/st_ives_bridge.jpg" class="card-img" style="max-height:300px" alt="St Ives" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/st-ives.html">St Ives</a></h5>
+        <p class="card-text"></p><p>St Ives is a historic market town in Huntingdonshire that grew in prosperity thanks to water-based trade links despite its vulnerability to flooding.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/2/eaton_socon_weir.jpg" class="card-img" style="max-height:300px" alt="St Neots" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/st-neots.html">St Neots</a></h5>
+        <p class="card-text"></p><p>St Neots is a town of around 30,000 inhabitants. It includes Eaton Socon and Eaton Ford on the west bank of the river. The river is a well used highlight of the town(s) with pleasant parkland setting the scene.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/1/stevington_postmill.jpg" class="card-img" style="max-height:300px" alt="Stevington" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/stevington.html">Stevington</a></h5>
+        <p class="card-text"></p><p>Stevington is a village of around 500 people with a windmill, a holy well and a popular garden.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/stony.jpg" class="card-img" style="max-height:300px" alt="Stony Stratford" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/stony.html">Stony Stratford</a></h5>
+        <p class="card-text"></p><p>Stony Stratford is an old coaching town on Watling street that has become part of the city of Milton Keynes. As the name suggests, it's where Watling Street crossed the Great Ouse (street ford) and is a good place to stay or at least get something to eat and drink.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/stowe.jpg" class="card-img" style="max-height:300px" alt="Stowe" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/stowe.html">Stowe</a></h5>
+        <p class="card-text"></p><p>What could be more quintessentially English than gardening? In terms of scale and quality, there is little to match Stowe as an English garden on the grandest scale. As well as being a 'Capability' Brown masterpiece, it's also filled with temples and monuments stacked with meaning.</p>
+      </div>
+    </div>
+  </div>
+
+<div class="row g-0">
+    <div class="col-md-4">
+      <img src="/assets/images/syresham.jpg" class="card-img" style="max-height:300px" alt="Syresham" />
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/places/syresham.html">Syresham</a></h5>
+        <p class="card-text"></p><p>Syresham is a pretty village on the Northamptonshire side of the border with Buckinghamshire. The nearby limestone quarry was used to make many of its older buildings.</p>
+      </div>
+    </div>
+  </div>
+
 
 
       </div>
@@ -437,7 +368,7 @@
           
           
           <li class="list-inline-item">
-            <a href="https://bsky.app/profile/greatouseways">
+            <a href="https://bsky.app/profile/greatouseways.bsky.social">
               <span class="fa-stack fa-lg">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg>
               </span>
@@ -457,13 +388,13 @@
 
 
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
-
 <script src="/assets/scripts.js"></script>
-
-
-
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+    getSettings()
+</script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id="></script>

@@ -7,8 +7,6 @@ lng: 0.03209079459288711
 background: /assets/images/3/earith.jpg
 ---
 Earith is village of around 1,500 people and one of the best places to get a sense of the work undertaken to create the Fens as they are now.
-<!--more-->
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 By the village is the start of the Old and New Bedford Rivers - two parallel channels running for 31 km were designed to keep the Fens well drained and allow the fertile land to be cultivated.
 

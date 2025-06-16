@@ -7,7 +7,6 @@ lng: -0.7018320955237471
 background: /assets/images/olney.jpg
 ---
 Olney is a comfortable Georgian market town of around 6,500 people that prides itself as the 'Home of Amazing Grace'.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
 
 The [Cowper and Newton museum](https://cowperandnewtonmuseum.org.uk/) is a good place to find out why.
 

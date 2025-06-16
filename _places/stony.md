@@ -8,7 +8,7 @@ background: /assets/images/stony.jpg
 ---
 
 Stony Stratford is an old coaching town on Watling street that has become part of the city of Milton Keynes.
-<div id="map" class="col-md-12" style="height: 400px;"></div>
+
 As the name suggests, it's where Watling Street crossed the Great Ouse (street ford) and is a good place to stay or at least get something to eat and drink.
 
 While you're here, why not do as travellers in the past did and go to either the Cock Inn or the Bull Hotel and tell your own [Cock and Bull story](https://en.wikipedia.org/wiki/Cock_and_bull_story).
@@ -24,7 +24,7 @@ Fans of the cult film [Withnail & I](https://en.wikipedia.org/wiki/Withnail_and_
 
 [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Stony+Stratford)
 
-### Aetting there
+### Getting there
 The X5 runs between Oxford and [Bedford](./bedford.html) via [Buckingham](./buckingham.html) and Stony Stratford. Buses between Stony Stratford and Newport Pagnell involve travelling into the centre of MK and back out again.
 [Bus departures](http://www.stagecoachbus.com/)
 There are regular trains to Milton Keynes and Wolverton which is on the route.
