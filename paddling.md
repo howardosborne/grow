@@ -19,6 +19,8 @@ They also offer guides for paddling the principle fenland drains:
 ## River Obstacles Database
 The [River Obstacles Database](https://river-obstacles-theriverstrust.hub.arcgis.com/){:target="_blank"} is a definitive resource for things that will get in your way.
 
+<div id="map" class="col-md-12" style="height: 600px;"></div>
+
 ## Hiring a canoe
 If you are looking to hire a canoe in the Milton Keynes area, then [Canoe the Ouse](https://www.canoetheouse.co.uk/){:target="_blank"} is worth contacting.
 

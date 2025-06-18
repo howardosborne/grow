@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Big Stowe BioBlitz 2025"
+background: /assets/images/The-Big-Stowe-Bioblitz-fb-event.jpg
 date:   2025-04-05 15:38:41 +0100
 categories: posts
 ---

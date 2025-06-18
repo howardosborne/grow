@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Sourcing the Ouse"
-date:   2025-04-05 15:38:41 +0100
+date:   2025-04-22 15:38:41 +0100
 categories: posts
 ---
+
+*Talk to the land owner*
 For a source to sea walk, the Ouse Valley Way starts with a rather deflating sign.
 
 <img src="/assets/images/os_source_sign.jpg" class="rounded card-img-top" alt="...">

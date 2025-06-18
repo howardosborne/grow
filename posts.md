@@ -12,6 +12,11 @@ background: /assets/images/latest.jpg
         {% for post in site.posts %}
 
         <article class="post-preview">
+         <div class="row g-0">
+          <div class="col-md-4">
+            <img src="{{ post.background }}" class="card-img" style="max-height:300px" alt="{{ post.title }}">
+          </div>
+          <div class="col-md-8">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
             {% if post.subtitle %}
@@ -20,15 +25,10 @@ background: /assets/images/latest.jpg
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+          <p class="post-meta">{% include read_time.html content=post.content %}            
           </p>
+          </div>
+          </div>
         </article>
 
         <hr>
