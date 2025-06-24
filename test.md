@@ -1,62 +1,8 @@
 ---
-layout: page
-title: About
-background: /assets/images/about.jpg
+layout: map
+title: Swimming
+background: /assets/images/swimming.jpg
+loadFunction: loadPics()
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
-<script>
-//load catchment 
-let obstaclesData;
-let navigationData;
-let wcpData;
-let cameoData;
-let ouseObstacles = [];
-async function loadCatchment(){
-  const navigationResponse = await fetch("/assets/data/ubocp.geojson");
-  navigationData = await navigationResponse.json();
-  wcpResponse = await fetch("/assets/data/wcp.geojson");
-  wcpData = await wcpResponse.json();
-  const cameoResponse = await fetch("/assets/data/cameo.geojson");
-  cameoData = await cameoResponse.json();  
-}
-async function loadObs(){
-  const obstaclesResponse = await fetch("/assets/data/River_Obstacles_view2_-8611833760021409824.geojson");
-  obstaclesData = await obstaclesResponse.json();
-}
-function findObstacles(){
-    navigationData['features'].forEach(feature => {
-        if(feature.geometry.type=="Polygon"){
-            let poly = turf.polygon(feature.geometry.coordinates);
-            obstaclesData['features'].forEach(of => {
-            let pt = turf.point(of.geometry.coordinates);
-                if(turf.booleanPointInPolygon(pt,poly)){
-                    ouseObstacles.push(of);
-                }
-           });  
-        }  
-    });
-    wcpData['features'].forEach(feature => {
-        if(feature.geometry.type=="Polygon"){
-            let poly = turf.polygon(feature.geometry.coordinates);
-            obstaclesData['features'].forEach(of => {
-            let pt = turf.point(of.geometry.coordinates);
-                if(turf.booleanPointInPolygon(pt,poly)){
-                    ouseObstacles.push(of);
-                }
-           });  
-        }  
-    });
-    cameoData['features'].forEach(feature => {
-        if(feature.geometry.type=="Polygon"){
-            let poly = turf.polygon(feature.geometry.coordinates);
-            obstaclesData['features'].forEach(of => {
-            let pt = turf.point(of.geometry.coordinates);
-                if(turf.booleanPointInPolygon(pt,poly)){
-                    ouseObstacles.push(of);
-                }
-           });  
-        }  
-    });
-}
-</script>
+<div id="map" class="col-md-12" style="height: 600px;"></div>

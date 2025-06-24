@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get involved
-background: /assets/images/paddling.jpg
+background: /assets/images/get_involved.jpg
 ---
 If you would like to get involved in improving the Great Ouse and its tributories, here are some of the groups you could contact:
 
