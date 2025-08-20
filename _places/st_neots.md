@@ -4,7 +4,7 @@ title:  "St Neots"
 categories: places
 lat: 52.22967123346944
 lng: -0.2686299059948712
-background: /assets/images/2/eaton_socon_weir.jpg
+background: /assets/images/PXL_20250409_144546834~2.jpg
 ---
 St Neots is a town of around 30,000 inhabitants. It includes Eaton Socon and Eaton Ford on the west bank of the river.
 

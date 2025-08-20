@@ -41,7 +41,7 @@ But that's not all: There are [26 waterbodies](https://environment.data.gov.uk/c
 
 ## Ouse Valley Way 
 
-Syresham does have the obvious advantage that it's on a bus route. Check out the [Syresham](./places/syresham.html) page to find out how to get there.
+Syresham does have the obvious advantage that it's on a bus route. Check out the [Syresham](/places/syresham.html) page to find out how to get there.
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
