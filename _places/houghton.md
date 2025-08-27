@@ -8,14 +8,13 @@ background: /assets/images/2/houghton_mill_2.jpg
 ---
 The Ouse Valley Way passes through Houghton Mill, which owned by the National Trust and a popular tourist spot.
 
+[Houghton Mill National Trust website](https://www.nationaltrust.org.uk/visit/cambridgeshire/houghton-mill-and-waterclose-meadows)
 
 ### Audio download
 
 Here I met up with Keith Grimwade and Bridget Flannagan who have been digging into and researching the history of milling in the area and made some surprising findings. 
 
-Here is our conversation broken down into bite-size chunks that you can download and listen to while walking through Houghton Mill:
-
-**add a map in here with the locations of the recordings
+Below is our conversation broken down into bite-size chunks that you can download and listen to while walking through Houghton Mill:
 
 {% for recording in site.data.recordings.watermills %}
 <div class="card col-6">
