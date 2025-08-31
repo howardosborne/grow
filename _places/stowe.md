@@ -12,7 +12,7 @@ The first leg of the Ouse Valley Way skirts around Stowe Gardens which is probab
 They were designed and nutured by gardening gurus William Kent and Capability Brown back in the 18th Century and are now owned and run by the National Trust.
 
 {% for recording in site.data.recordings.stowegardens %}
-<div class="card col-6">
+<div class="card">
   <img src="{{ recording.image }}" class="card-img-top" alt="stowe">
   <div class="card-body">
     <h5 class="card-title">{{ recording.heading }}</h5>

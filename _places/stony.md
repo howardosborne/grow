@@ -26,6 +26,9 @@ Fans of the cult film [Withnail & I](https://en.wikipedia.org/wiki/Withnail_and_
 
 ### Getting there
 The X5 runs between Oxford and [Bedford](./bedford.html) via [Buckingham](./buckingham.html) and Stony Stratford. Buses between Stony Stratford and Newport Pagnell involve travelling into the centre of MK and back out again.
+
 [Bus departures](http://www.stagecoachbus.com/)
+
 There are regular trains to Milton Keynes and Wolverton which is on the route.
+
 [Wolverton departures](https://www.nationalrail.co.uk/live-trains/departures/wolverton/)
