@@ -38,10 +38,10 @@
 	"panacea": [{
 		"latitude": 52.136465487329076,  
 		"longitude": -0.4625929588750736,
-		"filepath": "/assets/audio/panacea/00_intro.mp3",
+		"filepath": "/assets/audio/panacea.mp3",
 		"heading": "An ordinary house?",
-		"about": "With the Apocalypse imminent, careful preparations are made to help the Bishops perform a critical duty.",
-		"image": "/assets/images/1/queens_drive_stowe.jpg",
+		"about": "Ever fancied visiting the <i>actual</i> Gerden of Eden? Come for a pot of tea and learn about a society that spend the 20th Century preparing for the Apocalypse.",
+		"image": "/assets/images/points/panacea.jpg",
 		"image_attribution": ""
 	}],
 	"watermills": [
