@@ -1,113 +1,53 @@
 {
 	"buckingham": [{
-			"filepath": "/assets/audio/recordings/buckingham_canal_society.mp3",
-			"heading": "Buckingham Canal Society",
-			"about": "I met with Athena Beckett to find out more about the work of the Buckingham Canal Society.",
-			"image": "/assets/images/1/athena_bcs.jpg",
-			"image_attribution": ""
+		"latitude": 51.997540477224234,
+		"longitude": -0.9694939854738847,
+		"filepath": "/assets/audio/buckingham_canal_society.mp3",
+		"heading": "Buckingham Canal Society",
+		"about": "I met with Athena Beckett to find out more about the work of the Buckingham Canal Society.",
+		"image": "/assets/images/1/athena_bcs.jpg",
+		"image_attribution": ""
 	}],
 	"stowegardens": [{
-			"filepath": "/assets/audio/recordings/stowe_gardens.mp3",
-			"heading": "The Stowe Ranger",
-			"about": "I met with Head Ranger Barry Smith to find out more about the challenge of managing the flora and fauna and preparing it for the future.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
+		"latitude": 52.02200128179081,
+		"longitude": -1.0089761004196522,
+		"filepath": "/assets/audio/stowe_gardens.mp3",
+		"heading": "The Stowe Ranger",
+		"about": "I met with Head Ranger Barry Smith to find out more about the challenge of managing the flora and fauna and preparing it for the future.",
+		"image": "/assets/images/1/queens_drive_stowe.jpg",
+		"image_attribution": ""
 	}],
-	"panacea": [
-		{
-			"filepath": "/assets/audio/recordings/panacea/00_intro.mp3",
-			"heading": "An ordinary house?",
-			"about": "",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/01_opening_the_box.mp3",
-			"heading": "01 Opening the box",
-			"about": "With the Apocalypse imminent, careful preparations are made to help the Bishops perform a critical duty.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/02_media_and_a_new_discovery.mp3",
-			"heading": "02 Media campaigns and a new power",
-			"about": "A mass-media campaign is set in motion and in the process, Octavia discovers she has a new power.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/03_healing_and_protection.mp3",
-			"heading": "03 Healing and protection",
-			"about": "A new campaign begins to heal the sick and create a protected Royal Domain.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/04_dining.mp3",
-			"heading": "04 Dining",
-			"about": "Even Bishops deciding what to do at the Apocalypse need to eat and Octavia/Mabel has some very specific instructions",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/05_prepping_and_politics.mp3",
-			"heading": "05 Prepping and politics",
-			"about": "The Panaceans prepare for the Apocalypse but should that include how they vote?",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/06_four_bedrooms.mp3",
-			"heading": "06 Four different bedrooms",
-			"about": "What can we learn about the Panaceans from four bedrooms?",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/07_the_chapel.mp3",
-			"heading": "07 A place to worship",
-			"about": "The Panaceans needed a place to worship so they built their own.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/08_the_wireless_room.mp3",
-			"heading": "08 entertainment with the wireless",
-			"about": "What did the Panaceans do in the Evenings? Some chose to listen to the wireless and play games.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/09_the_garden_of_eden.mp3",
-			"heading": "09 The Garden of Eden",
-			"about": "The Society's communal garden was for them <i>the</i> garden of Eden. It's a pretty special place now as well.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},
-		{
-			"filepath": "/assets/audio/recordings/panacea/10_the_rich_legacy_of_the_panacea_society.mp3",
-			"heading": "10 A rich legacy",
-			"about": "With the end of the Panacea Society, what legacy has been left to us?",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},		
-		{
-			"filepath": "/assets/audio/recordings/panacea/11_the_messiahs_crib.mp3",
-			"heading": "11 A crib fit for a Messiah",
-			"about": "The Museum houses a crib made for Jesus' return in 1814 during the Napoleonic Wars.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		},	
-		{
-			"filepath": "/assets/audio/recordings/panacea/12_visiting_the_museum.mp3",
-			"heading": "12 Visiting the Museum",
-			"about": "Practical details on visiting the museum.",
-			"image": "/assets/images/1/queens_drive_stowe.jpg",
-			"image_attribution": ""
-		}
-	],
+	"emmaus": [{
+		"latitude": 52.179715662979504,
+		"longitude": -0.6042404195283734,
+		"filepath": "/assets/audio/emmaus.mp3",
+		"heading": "Emmaus",
+		"about": "It's a charity, a community and a great place to have a break on the Ouse Valley Way. I speak to Lynn Reeves to Operations Manager to find out more.",
+		"image": "/assets/images/points/emmaus.jpg",
+		"image_attribution": ""
+	}],
+	"guru_nanak_temple": [{
+		"latitude": 52.13243188467992, 
+		"longitude": -0.48609447233755343,
+		"filepath": "/assets/audio/guru_nanak_gurdwara_temple.mp3",
+		"heading": "Guru Nanak Gurdwara Temple",
+		"about": "There's an impressive temple visible from the Ouse Valley Way, Let's go and visit it.",
+		"image": "/assets/images/points/bedford_gurdwara.jpg",
+		"image_attribution": ""
+	}],
+	"panacea": [{
+		"latitude": 52.136465487329076,  
+		"longitude": -0.4625929588750736,
+		"filepath": "/assets/audio/panacea/00_intro.mp3",
+		"heading": "An ordinary house?",
+		"about": "With the Apocalypse imminent, careful preparations are made to help the Bishops perform a critical duty.",
+		"image": "/assets/images/1/queens_drive_stowe.jpg",
+		"image_attribution": ""
+	}],
 	"watermills": [
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/01_introduction.mp3",
 			"heading": "1 Introduction",
 			"about": "<i>We're not slow workers really, it was just a huge subject</i> - how Keith and Bridget got started",
@@ -115,6 +55,8 @@
 			"image_attribution": ""
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/02_why_is_this_place_special.mp3",
 			"heading": "2 Why is this place special?",
 			"about": "What did the glaciers ever do for us? Keith explains how events long ago made watermills here the highest value at Domesday.",
@@ -122,6 +64,8 @@
 			"image_attribution": ""
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/03_first_mill.mp3",
 			"heading": "3 Who built the first local watermill?",
 			"about": "Was it the Romans, Anglo-Saxons or even the Danes that build the first watermills here? ",
@@ -129,6 +73,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/04_original_location.mp3",
 			"heading": "4 The location of the original Houghton Mill",
 			"about": "Keith and Bridget make the case for where the original Houghton Mill was located.",
@@ -136,6 +82,8 @@
 			"image_attribution": ""
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/05_how_to_find_a_missing_mill.mp3",
 			"heading": "5 How to find a missing watermill",
 			"about": "Making things fom bio-degradable materials is seen as a good thing today, but it's something of a headache in archeology. Keith and Bridget explain how they found missing mills using some ingeneous ideas.",
@@ -143,6 +91,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/06_innovation.mp3",
 			"heading": "6 Innovation, expansion and aggrevation",
 			"about": "The 1200s was a time of population expansion and an indreasing need for milling with new innovations in wind power but also tensions on the river.",
@@ -150,6 +100,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/07_moving_heaven_and_earth.mp3",
 			"heading": "7 Moving Heaven and earth",
 			"about": "The Abbey carries out major engineering works to create new channels and new mills for grain and fulling.",
@@ -157,6 +109,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/08_drawing_places.mp3",
 			"heading": "8 Drawing places - compromise at a cost",
 			"about": "The Abbey finds a way to keep the mills running and allow river traffic to pass through.",
@@ -164,6 +118,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/09_the_arrival_of_locks.mp3",
 			"heading": "9 The arrival of locks",
 			"about": "James I needed money and had a plan to expand trade.",
@@ -171,6 +127,8 @@
 			"image_attribution": ""
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/10_full_steam_ahead.mp3",
 			"heading": "10 Full steam ahead",
 			"about": "Steam replaces water as the new energy source and one beneficiary uses new wealth to power new religious crusade",
@@ -178,6 +136,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/11_speculation.mp3",
 			"heading": "11 The rise of speculation and the decline of navigation",
 			"about": "New owners try to renew river use and a means of transport, but meets with resistance.",
@@ -185,6 +145,8 @@
 			"image_attribution": "Wikimedia Commons"
 		},
 		{
+			"latitude": 52.33121806404071, 
+			"longitude": -0.1207870343583046,
 			"filepath": "/assets/audio/watermills/12_a_powerhouse_of_watermilling.mp3",
 			"heading": "12 A powerhouse of watermilling",
 			"about": "Today's serene landscape belies how it would appear to our ancestors. Keith and Bridget have shown what it would have looked like and make the case for reevaluating what we should preserve.",
