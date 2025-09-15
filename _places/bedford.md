@@ -21,32 +21,48 @@ The [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum) is a good place
 It's also worth spending some time at the fascinating [Panacea Museum](https://panaceatrust.org/) where a group of locals spent the bulk of the 20th Century preparing for the second coming in a very English way.
 
 ### Audio downloads
+
 {% for recording in site.data.recordings.panacea %}
-<div class="card">
-  <!--<img src="{{ recording.image }}" class="card-img-top" alt="buckingham">-->
-  <div class="card-body">
+
+<div class="card mb-3" >
+  <div class="row g-0">
+    <div class="col-md-4">
+    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
     <h5 class="card-title">{{ recording.heading }}</h5>
     <p class="card-text">{{ recording.about }}</p>
         <audio controls>
           <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
+      </div>
+    </div>
   </div>
 </div>
+
 {% endfor %}
 
 {% for recording in site.data.recordings.guru_nanak_temple %}
-<div class="card">
-  <!--<img src="{{ recording.image }}" class="card-img-top" alt="buckingham">-->
-  <div class="card-body">
+<div class="card mb-3" >
+  <div class="row g-0">
+    <div class="col-md-4">
+    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
     <h5 class="card-title">{{ recording.heading }}</h5>
     <p class="card-text">{{ recording.about }}</p>
         <audio controls>
           <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
+      </div>
+    </div>
   </div>
 </div>
+
 {% endfor %}
 
 In the 1950's, the London Brick Company, which had a brickworks nearby, looked to Italy for recruitment. As a result, 30% of modern day Bedford folk have Italian descent. Significant immigration from other parts of the world have made modern day Bedford an ethnically diverse place to be. Finding something interesting to eat isn't an issue...

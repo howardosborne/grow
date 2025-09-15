@@ -12,6 +12,9 @@ By the village is the start of the Old and New Bedford Rivers - two parallel cha
 
 In between the two is a series of washes which can flood when needed and at the Earith end is an earthwork which is all that remains of a Civil War fortress, the Earith Bulwark.
 
+Back in the 1960s this was a place to get a vision of the future. The long flat banks of the Old Bedford River made it an ideal place to experiment with hovertrains. The testbed has long gone and the old trainshed has been taken over by an engineering firm. 
+
+
 Nearby [RSPB Ouse Fen](https://www.rspb.org.uk/days-out/reserves/ouse-fen) gives an opportunity to see some of the wildlife that lives here now.
 
 ### food and drink
