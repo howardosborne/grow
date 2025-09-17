@@ -117,6 +117,37 @@ From Stowe it's a pleasant wander down Stowe Avenue, shaded by majestic beeches,
 </div>
 </div>
 
+### Audio downloads
+
+{% for recording in site.data.recordings.stowegardens %}
+<div class="card">
+  <img src="{{ recording.image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+{% endfor %}
+
+{% for recording in site.data.recordings.buckingham %}
+<div class="card">
+  <img src="{{ recording.image }}" class="card-img-top" alt="buckingham">
+  <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+{% endfor %}
+
+
 Next leg: [Buckingham to Stony Stratford](/walks/2-buckingham-to-stony-stratford-15-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)

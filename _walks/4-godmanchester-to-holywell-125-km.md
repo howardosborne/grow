@@ -71,6 +71,21 @@ The [Old Ferry Boat](https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-
 
 It's also a good place from which to visit the [Fen Drayton Lakes Reserve](https://www.rspb.org.uk/days-out/reserves/fen-drayton-lakes){:target="_blank"}
 
+### Audio downloads
+{% for recording in site.data.recordings.watermills %}
+<div class="card">
+  <img src="{{ recording.image }}" class="card-img-top" alt="Houghton Mill">
+  <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+{% endfor %}
+
 Next leg: [Holywell to Earith](/walks/5-holywell-to-earith-75-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)

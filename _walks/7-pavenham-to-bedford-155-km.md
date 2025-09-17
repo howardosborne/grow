@@ -68,6 +68,52 @@ You could also hire a canoe here to complete the next leg from [Canoe Trail](htt
 
 Spending time in Bedford is also a chance to visit the [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum){:target="_blank"} and visit the [Panacea Society](http://panaceamuseum.org/){:target="_blank"}.
 
+### Audio downloads
+
+{% for recording in site.data.recordings.panacea %}
+
+<div class="card mb-3" >
+  <div class="row g-0">
+    <div class="col-md-4">
+    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endfor %}
+
+{% for recording in site.data.recordings.guru_nanak_temple %}
+<div class="card mb-3" >
+  <div class="row g-0">
+    <div class="col-md-4">
+    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endfor %}
+
+
 Next Leg: [Bedford to Great Barford](/walks/1-bedford-to-great-barford-11-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)

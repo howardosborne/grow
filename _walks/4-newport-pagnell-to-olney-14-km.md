@@ -78,6 +78,23 @@ It's also home to [pancake racing](http://olneypancakerace.org/){:target="_blank
 </div>
 </div>
 
+### Audio downloads
+
+{% for recording in site.data.recordings.cowper_newton_museum %}
+<div class="card">
+  <img src="{{ recording.image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ recording.heading }}</h5>
+    <p class="card-text">{{ recording.about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+{% endfor %}
+
+
 Next leg: [Olney to Odell](/walks/5-olney-to-odell-13-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)
