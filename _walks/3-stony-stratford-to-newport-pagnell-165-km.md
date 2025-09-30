@@ -25,7 +25,7 @@ The Ouse Valley Way avoids much of Milton Keynes and even takes a curious detour
 </div>
 </div>
 
-However you choose to cross MK, the initial part of the Ouse Valle Way route is worth taking as it goes through the expansive and well-managed Ouse Valley Park. It is owned and maintained by the [Parks Trust](https://www.theparkstrust.com/){:target="_blank"}, a unique self-funding body which looks after MK's green spaces.
+However you choose to cross MK, the initial part of the Ouse Valley Way route is worth taking as it goes through the expansive and well-managed Ouse Valley Park. It is owned and maintained by the [Parks Trust](https://www.theparkstrust.com/){:target="_blank"}, a unique self-funding body which looks after MK's green spaces.
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
