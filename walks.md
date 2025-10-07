@@ -8,7 +8,7 @@ loadFunction: loadWalks()
 There are many walks that will take you to, and along, the Great Ouse which vary in length, sights and ease of access.
 
 <div id="map" class="col-md-12" style="height: 600px;"></div>
-
+<hr>
 ## Ouse Valley Way
 It's perhaps **the** epic walk from source to sea and here is an [overview of the route](./walks/ousevalleyway.html) with the things to see and do along the way.
 

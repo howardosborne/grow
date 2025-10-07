@@ -2,10 +2,45 @@
 layout: map
 background: /assets/images/main.jpg
 title: Great Ouse Ways
-description: A personal guide to exploring the Great Ouse
+description: Exploring the Great Ouse from source to sea.
 loadFunction: loadWaterbodies()
 ---
 
-The Great Ouse and its tributaries are precious and fascinating. This site hopes to be a starting point to help you get to know them better whether by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or joining one of the [groups](./join.html) working to improve the river system.
+From source to sea, the Great Ouse wends its way through a precious and fascinating land. Why not discover it and the people who live here by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or joining one of the [groups](./join.html) working to improve the river system.
 
+<!--
+### Ouse Valley Way
+150 miles of walking, cycling, paddling or with public transport on hand.
+-->
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <div class="card">
+            <img src="/assets/images/points/mortimer_park.jpg" class="card-img" alt="ovw">
+            <div class="card-img-overlay" style="align-content: end">
+                <a href="/walks/ousevalleyway.html">
+                <h3 class="card-title" style="color:white">Ouse Valley Way</h3>
+                <p class="card-text" style="color:white">Follow the course from source to sea</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <div class="card">
+            <img src="/assets/images/1/athena_bcs.jpg" class="card-img" alt="audio">
+            <div class="card-img-overlay" style="align-content: end">
+            <a href="/audio.html">
+                <h3 class="card-title" style="color:white">Audio Companion</h3>
+                <p class="card-text" style="color:white">Stories of the places along the way.</p>
+            </a>
+            </div>
+        </div>
+    </div>
+    -->
+</div>
+
+<hr>
+
+### More than a river
+The Great Ouse is more than a river, it's what links a catchment of brooks, streams, navigations and even other rivers. 
 <div id="map" class="col-md-12" style="height: 600px;"></div>
