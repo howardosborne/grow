@@ -3,11 +3,23 @@ layout: map
 title: Pavenham to Bedford
 background: /assets/images/1/pew_carvings_2.jpg
 description: Distance 15.5 km
+stage: 7
 loadFunction: loadOVWLeg(52.16158520906302, -0.532256429278968,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 From Pavenham the route follows the river. Make sure you stick to the high ground as springs from the limestone ridge to your right keep sections of the path marshy all year round. It may by an annoyance for walkers but is a delight for bio-diversity. As a result, it has earned its status as a [Site of Special Scientific Interest](https://en.wikipedia.org/wiki/Stevington_Marsh).
 
 <div class="row">
@@ -68,51 +80,37 @@ You could also hire a canoe here to complete the next leg from [Canoe Trail](htt
 
 Spending time in Bedford is also a chance to visit the [John Bunyan Museum](https://www.bunyanmeeting.co.uk/museum){:target="_blank"} and visit the [Panacea Society](http://panaceamuseum.org/){:target="_blank"}.
 
+<hr>
+
 ### Audio downloads
-
-{% for recording in site.data.recordings.panacea %}
-
-<div class="card mb-3" >
-  <div class="row g-0">
-    <div class="col-md-4">
-    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
         <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
-      </div>
-    </div>
   </div>
 </div>
-
+</div>
+{% endif %}
 {% endfor %}
-
-{% for recording in site.data.recordings.guru_nanak_temple %}
-<div class="card mb-3" >
-  <div class="row g-0">
-    <div class="col-md-4">
-    <img src="{{ recording.image }}" class="card-img-top" alt="{{ recording.heading }}">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
-        <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-      </div>
-    </div>
-  </div>
 </div>
 
-{% endfor %}
+<hr>
 
+## Public transport
+The No. 25 bus goes between Pavenham and Bedford.
+
+Bus times: [Grant Palmer](https://www.grantpalmer.com/).
+
+<hr>
 
 Next Leg: [Bedford to Great Barford](/walks/1-bedford-to-great-barford-11-km.html)
 

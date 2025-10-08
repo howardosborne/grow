@@ -129,7 +129,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             <img src="/assets/images/2/grange.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/1-bedford-to-great-barford-11-km.html">
-                <h3 class="card-title" style="color:white">1 Bedford to Great Barford</h3>
+                <h3 class="card-title" style="color:white">8 Bedford to Great Barford</h3>
                 <p class="card-text" style="color:white">11 km</p>
                 </a>
             </div>
@@ -140,7 +140,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             <img src="/assets/images/2/eaton_socon_weir.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/2-great-barford-to-st-neots-155-km.html">
-                <h3 class="card-title" style="color:white">2 Great Barford to St Neots</h3>
+                <h3 class="card-title" style="color:white">9 Great Barford to St Neots</h3>
                 <p class="card-text" style="color:white">15.5 km</p>
                 </a>
             </div>
@@ -154,7 +154,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             <img src="/assets/images/2/paxton_pits.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/3-st-neots-to-godmanchester-164-km.html">
-                <h3 class="card-title" style="color:white">3 St Neots to Godmanchester</h3>
+                <h3 class="card-title" style="color:white">10 St Neots to Godmanchester</h3>
                 <p class="card-text" style="color:white">16.4 km</p>
                 </a>
             </div>
@@ -165,7 +165,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             <img src="/assets/images/2/houghton_mill.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/4-godmanchester-to-holywell-125-km.html">
-                <h3 class="card-title" style="color:white">4 Godmanchester to Holywell</h3>
+                <h3 class="card-title" style="color:white">11 Godmanchester to Holywell</h3>
                 <p class="card-text" style="color:white">12.5 km</p>
                 </a>
             </div>
@@ -179,7 +179,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             <img src="/assets/images/3/earith_3.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/5-holywell-to-earith-75-km.html">
-                <h3 class="card-title" style="color:white">5 Holywell to Earith</h3>
+                <h3 class="card-title" style="color:white">12 Holywell to Earith</h3>
                 <p class="card-text" style="color:white">7.5 km</p>
                 </a>
             </div>
@@ -199,7 +199,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
 
 The Fens are unique - or at least unique to England. Over in the Netherlands, reclaimed land put to good use is commonplace, but this landscape created with the help of a [Dutch engineer](https://en.wikipedia.org/wiki/Cornelius_Vermuyden) has been feeding England since the Civil War. 
 
-Compared to the walks in the previous sections, these are sparser in features and, for practical reaons, longer in distance (there are some suggested places to stop en-route). Nevertheless, they offer a profound lesson in how we use land and where we can provide opportunities to allow nature to co-exist.
+Compared to the walks in the previous sections, these are sparser in features and, for practical reasons, longer in distance. There are some suggested places to stop en-route, and public transport can help if the distances are an issue. Nevertheless, they offer a profound lesson in how we use land and where we can provide opportunities to allow nature to co-exist.
 
 #### Legs
 <div class="row">
@@ -208,7 +208,7 @@ Compared to the walks in the previous sections, these are sparser in features an
             <img src="/assets/images/3/ely_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/1-earith-to-ely-25-km.html">
-                <h3 class="card-title" style="color:white">1 Earith to Ely</h3>
+                <h3 class="card-title" style="color:white">13 Earith to Ely</h3>
                 <p class="card-text" style="color:white">25 km</p>
                 </a>
             </div>
@@ -219,7 +219,7 @@ Compared to the walks in the previous sections, these are sparser in features an
             <img src="/assets/images/3/willow_farm.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/2-ely-to-downham-market-28-km.html">
-                <h3 class="card-title" style="color:white">2 Ely to Downham Market</h3>
+                <h3 class="card-title" style="color:white">14 Ely to Downham Market</h3>
                 <p class="card-text" style="color:white">28 km</p>
                 </a>
             </div>
@@ -233,7 +233,7 @@ Compared to the walks in the previous sections, these are sparser in features an
             <img src="/assets/images/3/wiggenshalls_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <a href="/walks/3-downham-market-to-kings-lynn-185-km.html">
-                <h3 class="card-title" style="color:white">3 Downham Market to Kings Lynn</h3>
+                <h3 class="card-title" style="color:white">15 Downham Market to Kings Lynn</h3>
                 <p class="card-text" style="color:white">18.5 km</p>
                 </a>
             </div>

@@ -3,11 +3,23 @@ layout: map
 title: Newport Pagnell to Olney
 background: /assets/images/1/Haystack%20near%20Sherington.jpg
 description: Distance 14 km
+stage: 4
 loadFunction: loadOVWLeg(52.10851788150435, -0.7040708104620679,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 From Newport Pagnell the route crosses the Great Ouse at the weir and heads to Sherington where a curious event took place in 1935.
 
 <img class="rounded card-img-top" src="/assets/images/1/Great%20Ouse%20at%20Newport%20Pagnell.jpg" alt="NP">
@@ -77,23 +89,34 @@ It's also home to [pancake racing](http://olneypancakerace.org/){:target="_blank
 <div class="col-4">
 </div>
 </div>
-
+<hr>
 ### Audio downloads
-
-{% for recording in site.data.recordings.cowper_newton_museum %}
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="card">
-  <img src="{{ recording.image }}" class="card-img-top" alt="stowe">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
   <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
         <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
   </div>
 </div>
+</div>
+{% endif %}
 {% endfor %}
+</div>
 
+<hr>
+
+## Public transport
+The No. 21 runs hourly between Newport Pagnell and Olney. Bus times: [Red Rose](https://www.redrosetravel.com/).
+
+<hr>
 
 Next leg: [Olney to Odell](/walks/5-olney-to-odell-13-km.html)
 

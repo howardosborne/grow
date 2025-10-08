@@ -27,15 +27,6 @@
 		"image_attribution": ""
 	},
 {
-		"latitude": 52.05663188948619, 
-		"longitude": -0.8524516875866952,
-		"filepath": "/assets/audio/bard_of_stony.mp3",
-		"heading": "Bard of Stony Stratford",
-		"about": "Nova Carmen, Bard of Stony Stratford, shares some tips with us on how to get creative. <a href='https://bardofstony.weebly.com/' target='_blank'>Bard of Stony Stratford</a>",
-		"image": "/assets/images/points/bard_of_stony_crop.jpg",
-		"image_attribution": "Courtesy of bardofstony.weebly.com"
-	},
-{
 		"latitude": 52.04853914710455, 
 		"longitude": -0.7951623470860639,
 		"filepath": "/assets/audio/bradwell_abbey.mp3",
@@ -87,15 +78,6 @@
 		"heading": "Harrold Odell Country Park",
 		"about": "It's been called the jewell of North Bedfordshire and the Ouse Valley Way passes right through it. I meet Ed Green who shares with us how he keeps this local gem in good order. <a href='https://hocp.co.uk/' target='_blank'>Park website</a>",
 		"image": "/assets/images/points/hocp.jpg",
-		"image_attribution": ""
-	},
-{
-		"latitude": 52.144980228358975, 
-		"longitude": -0.5247141174207195,
-		"filepath": "/assets/audio/john_bunyan.mp3",
-		"heading": "John Bunyan and the Pilgrim's Progress",
-		"about": "Between Pavenham and Bromham Mill, the Ouse Valley Way joins another walking route - The John Bunyan Trail. It's an 86 mile loop that seeks to follow in the footsteps of John Bunyan who used to walk these parts as a tinker and preacher. That was before being put in prison and then using his time doing stir to write The Pilgrim's Progress. I met with John Pestell from the Bunyan Museum to find out more about man and his greatest work. <a href='https://www.bunyanmeeting.co.uk/museum' target='_blank'>Bunyan Museum</a>",
-		"image": "/assets/images/points/john_bunyan.jpg",
 		"image_attribution": ""
 	},
 {
@@ -168,15 +150,6 @@
 		"heading": "On the Gingerbread Trail",
 		"about": "Discover Downham was created by a dedicated group of volunteers who were determined to save the artifacts and stories that tell the history of their town. I met with Kathleen Wiseman who took me on a wander to find out why it's known as the Gingetbread Town. <br><a href='https://www.discoverdownham.org.uk/' target='_blank'>Discover Downham Website</a>",
 		"image": "/assets/images/points/downham.jpg",
-		"image_attribution": ""
-	},
-{
-		"latitude": 52.13599853655618, 
-		"longitude": -0.46422609899683775,
-		"filepath": "/assets/audio/higgins.mp3",
-		"heading": "Remembering the R101",
-		"about": "Why did the R101's maiden flight end in tragedy? Lydia McDonald helps us find out. <br><a href='https://www.thehigginsbedford.org.uk/Home.aspx' target='_blank'>Website</a>",
-		"image": "/assets/images/points/higgins.jpg",
 		"image_attribution": ""
 	},
 {

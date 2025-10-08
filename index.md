@@ -24,7 +24,6 @@ From source to sea, the Great Ouse wends its way through a precious and fascinat
             </div>
         </div>
     </div>
-    <!--
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card">
             <img src="/assets/images/1/athena_bcs.jpg" class="card-img" alt="audio">
@@ -36,7 +35,6 @@ From source to sea, the Great Ouse wends its way through a precious and fascinat
             </div>
         </div>
     </div>
-    -->
 </div>
 
 <hr>

@@ -3,11 +3,23 @@ layout: map
 title: Stony Stratford to Newport Pagnell
 background: /assets/images/1/Stony%20Stratford.jpg
 description: Distance 16.5 km
+stage: 3
 loadFunction: loadOVWLeg(52.065058871999796, -0.8057663750276123,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 Crossing Milton Keynes is a chance to see how the tricky business of creating a new city has been tackled.
 
 ## Ouse Valley Way or the Redways?
@@ -80,6 +92,35 @@ The end point is the town of Newport Pagnell which mirrors Stony Stratford as an
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <img src="/assets/images/newport.jpg" class="rounded card-img-top" alt="Newport Pagnell"></div>
 </div>
+
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+There is no direct bus between Stony and Newport, but you can catch a 6 or X6 into town and change for a No. 2. Bus times [Arriva](https://www.arrivabus.co.uk/buy-tickets/region/beds-and-bucks).
+
+It's also worth noting that the X5 runs from Oxford to Bedford via Milton Keynes Central Station.
+<hr>
 
 Next leg: [Newport Pagnell to Olney](/walks/4-newport-pagnell-to-olney-14-km.html)
 

@@ -3,10 +3,23 @@ layout: map
 title: Ely to Downham Market
 background: /assets/images/3/willow_farm.jpg
 description: Distance 28 km
+stage: 14
 loadFunction: loadOVWLeg(52.5007314504582, 0.36680632463759716,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
+
+## Route details
 At Ely the Ouse Valley Way combines with the [Fen Rivers Way](https://www.norfolk.gov.uk/article/42895/Fen-Rivers-Way-Kings-Lynn-to-Cambridge){:target="_blank"} and heads along Sandy's Cut to past the town of Littleport, which is useful for any provisions not acquired in Ely and on towards Brandon Creek, where the Great Ouse is joined by the Little Ouse.
 
 The [Ship Inn](https://www.theshipbrandoncreek.com/){:target="_blank"} is a good option for food and drink.
@@ -70,6 +83,34 @@ A little further on is the pleasant town of [Downham Market](/_places/downham_ma
 <small>courtesy of FromMorningToMidnight</small>
 </div>
 </div>
+
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+There are trains every 30 mins Between Ely and Downham Market. [National Rail](https://www.nationalrail.co.uk/journey-planner/)
+
+<hr>
 
 
 Next leg: [Downham Market to Kings Lynn](/walks/3-downham-market-to-kings-lynn-185-km.html)

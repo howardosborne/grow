@@ -3,10 +3,24 @@ layout: map
 title: Bedford to Great Barford
 background: /assets/images/2/grange.jpg
 description: Distance 11 km
+stage: 8
 loadFunction: loadOVWLeg(52.13620968346213, -0.4067219774980595,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+
+<hr>
+
+## Route details
 
 This pleasant stroll starts by walking through [Priory Country Park](https://www.bedford.gov.uk/leisure-parks-and-sport/parks-and-open-spaces/parks-bedford-borough/priory-country-park){:target="_blank"} which was developed after the gravel pits were decommissioned.
 
@@ -59,7 +73,34 @@ The route continues past Willington Lake and then along the Great Ouse up to the
 </div>
 
 Great Barford is a popular place for paddling - mainly upstream as 200 meters downstream is a weir (and sewage works). The village also has a friendly pub close to the bridge.
+<hr>
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
 
+<hr>
+
+## Public transport
+The No. 905 runs every 30 minutes between Bedford and Cambridge stopping at Great Barford (and St Neots). Bus times: [Stagecoach](https://www.stagecoachbus.com/routes/east/905/bedford-cambridge).
+
+<hr>
 Next leg: [Great Barford to St Neots](/walks/2-great-barford-to-st-neots-155-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)

@@ -3,11 +3,23 @@ layout: map
 title: Odell to Pavenham
 background: /assets/images/1/pavenham_2.jpg
 description: Distance 10.5 km
+stage: 6
 loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 The route from Odell to Pavenham makes a long loop, as does the wending river and yet they barely meet, which is a shame. Even the part which does follow the course of the river through a golf course is obscured by woodland.
 
 <img class="rounded card-img-top" src="/assets/images/1/odell_church.jpg" alt="Odell Pavenham">
@@ -34,6 +46,37 @@ It's also where we join another walking route, the [John Bunyan Trail](https://e
 <img src="/assets/images/1/pavenham_2.jpg" class="rounded card-img-top" alt="...">
 </div>
 </div>
+
+<hr>
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+The No. 25 bus goes between Odell and Pavenham (and into Bedford).
+
+Bus times: [Grant Palmer](https://www.grantpalmer.com/).
+
+<hr>
 
 Next leg: [Pavenham to Bedford](/walks/7-pavenham-to-bedford-155-km.html)
 

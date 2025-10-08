@@ -3,11 +3,23 @@ layout: map
 title: Holywell to Earith
 background: /assets/images/3/earith_3.jpg
 description: Distance 7.5 km
+stage: 12
 loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 Leaving Holywell, the path heads along a dry ridge which is clearly useful in this floodable area
 
 <img src="/assets/images/2/holywell_6.jpg" class="rounded card-img-top" alt="...">
@@ -79,6 +91,34 @@ It's a haven for birds and you can see for yourself by walking along either the 
 
 Also, for a glimpse of how things used to be before the Dutch engineers arrived, you could visit the [Ouse Fen Reserve](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/ouse-fen/){:target="_blank"}.
 
+<hr>
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+Public transport is not practical between Holywell and Earith.
+
+<hr>
 Next leg: [Earith to Ely](/walks/1-earith-to-ely-25-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)

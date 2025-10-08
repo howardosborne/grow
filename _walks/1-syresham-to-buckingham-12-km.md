@@ -3,17 +3,31 @@ layout: map
 title: Syresham to Buckingham
 background: /assets/images/1/path_through_Whitfield_Wood_5.jpg
 description: Distance 12km
+stage: 1
 loadFunction: loadOVWLeg(52.01813640015964, -1.0137267176746108,12)
 ---
+## Contents
+
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
+
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
+
+## Route details
+For purists, near might not feel near enough and they would like to start at the actual source.
 
 The first part of the way starts *near* the source of the river in Syresham.
 
 <img class="rounded card-img-top" src="/assets/images/1/The%20source%20of%20the%20Great%20Ouse.jpg" alt="syresham to buckingham">
 
-For purists, near might not feel near enough and they would like to start at the actual source.
-
-## Finding the source
+#### Finding the source
 
 If that's you, then you could walk up the road towards Wappenham where the source can be found and it is marked on the map. It starts with a depression wending its way through the fields at Wappenham Lodge Farm and feeding into a pond, which presumably has been used in the past as a source of water for cattle. These days it's fenced off and the sheep make do with tap water.
 
@@ -39,9 +53,7 @@ However, not everyone agrees that this is *the* source and there's a rival sprin
 
 But that's not all: There are [26 waterbodies](https://environment.data.gov.uk/catchment-planning/OperationalCatchment/3491){:target="_blank"} that feed into the headwaters of the Great Ouse. Feel free to start at a different point if you'd like, after all, if every journey starts with a single step then doesn't every river start with a single raindrop?
 
-## Ouse Valley Way 
-
-Syresham does have the obvious advantage that it's on a bus route. Check out the [Syresham](/places/syresham.html) page to find out how to get there.
+Syresham does have the obvious advantage that it's on a bus route. Public transport details are [below](#public-transport).
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -117,36 +129,35 @@ From Stowe it's a pleasant wander down Stowe Avenue, shaded by majestic beeches,
 </div>
 </div>
 
+<hr>
+
 ### Audio downloads
-
-{% for recording in site.data.recordings.stowegardens %}
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="card">
-  <img src="{{ recording.image }}" class="card-img-top" alt="stowe">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
   <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
         <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
   </div>
 </div>
-{% endfor %}
-
-{% for recording in site.data.recordings.buckingham %}
-<div class="card">
-  <img src="{{ recording.image }}" class="card-img-top" alt="buckingham">
-  <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
-        <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-  </div>
 </div>
+{% endif %}
 {% endfor %}
+</div>
 
+<hr>
+
+## Public transport
+The 87 bus stops at Syresham on its route between Brackley and Northampton. You can change at Brackley to get a bus to Buckingham, although one direct bus a day goes in each direction acting as a school bus. You can find live times at [stagecoach.com](https://www.stagecoachbus.com/)
+
+<hr>
 
 Next leg: [Buckingham to Stony Stratford](/walks/2-buckingham-to-stony-stratford-15-km.html)
 

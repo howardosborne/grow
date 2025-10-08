@@ -3,11 +3,23 @@ layout: map
 title: Great Barford to St Neots
 background: /assets/images/2/eaton_socon_weir.jpg
 description: Distance 15.5 km
+stage: 9
 loadFunction: loadOVWLeg(52.18296647897254, -0.3083600078899254,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 From Great Barford, the route diverts along the road past the sewage works and then through a series of fields to Roxton. There are also some properties which it's hard not to be envious of.
 
 <div class="row">
@@ -100,6 +112,33 @@ Eaton Socon is split from St Neots by the Great Ouse and walks from here into St
 <img src="/assets/images/2/st_neots_greenway.jpg" class="rounded card-img-top" alt="...">
 </div>
 </div>
+
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+The 905 bus runs between Bedford and Cambridge stopping at Great Barford and St Neots.[Stagecoach](https://www.stagecoachbus.com/)
+<hr>
 
 Next leg: [St Neots to Godmanchester](/walks/3-st-neots-to-godmanchester-164-km.html)
 

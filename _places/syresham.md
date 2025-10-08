@@ -19,7 +19,7 @@ The Kings Head pub offers accommodation, food and of course, beer. Find out more
 You could also look for nearby places to stay at [Booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Syresham)
 
 ## Getting there
-The 87 bus goes via Syresham on its route between Brackley and Northampton. You can change a Brackley to get a bus to Buckingham, although one direct bus a day goes in each direction acting as a school bus. You can find live times at [stagecoach.com](https://www.stagecoachbus.com/)
+The 87 bus goes via Syresham on its route between Brackley and Northampton. You can change at Brackley to get a bus to Buckingham, although one direct bus a day goes in each direction acting as a school bus. You can find live times at [stagecoach.com](https://www.stagecoachbus.com/)
 
 ## links
-(https://en.wikipedia.org/syresham)
+[wikipedia page](https://en.wikipedia.org/syresham)

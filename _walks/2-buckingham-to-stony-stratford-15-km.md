@@ -3,10 +3,23 @@ layout: map
 title: Buckingham to Stony Stratford
 background: /assets/images/1/Great%20Ouse%20from%20Buckingham.jpg
 description: Distance 15 km
+stage: 2
 loadFunction: loadOVWLeg(52.023508802629614, -0.8961279318601949,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
+
+## Route details
 The path leaving Buckingham starts with a short stretch along the old Buckingham Canal which has been turned into a wildlife habitat. If you pass through on a Tuesday or Thursday you might see members of the [Canal Society](https://www.buckinghamcanal.org.uk/){:target="_blank"} carrying out maintenance.
 
 <div class="row">
@@ -82,6 +95,37 @@ It's just a short wander into the ancient coaching town of [Stony Stratford](/pl
 </div>
 
 It's a good place to stay, or at least get something to eat and drink, and why not do as travellers in the past did and go to either the Cock Inn or the Bull Hotel and tell your own [Cock and Bull story](https://en.wikipedia.org/wiki/Cock_and_bull_story){:target="_blank"}.
+
+<hr>
+
+### Audio downloads
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage and item[1].draft == "false" %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="card">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
+  <div class="card-body">
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
+        <audio controls>
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+## Public transport
+The X6 can be used to getting between the start and end points. Bus times [Arriva](https://www.arrivabus.co.uk/buy-tickets/region/beds-and-bucks)
+
+It's also worth noting that the X5 runs from Oxford to Bedford via Buckingham.
+<hr>
 
 Next leg: [Stony Stratford to Newport Pagnell](/walks/3-stony-stratford-to-newport-pagnell-165-km.html)
 

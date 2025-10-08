@@ -3,11 +3,23 @@ layout: map
 title: Godmanchester to Holywell
 background: /assets/images/2/houghton_mill.jpg
 description: Distance 12.5 km
+stage: 11
 loadFunction: loadOVWLeg(52.32993564785955, -0.0873887597458531,12)
 ---
+## Contents
 
+- [<u>Route map</u>](#route-map)
+- [<u>Route details</u>](#route-details)
+- [<u>Audio downloads</u>](#audio-downloads)
+- [<u>Public transport</u>](#public-transport)
+
+<hr>
+
+## Route map
 <div id="map" class="col-md-12" style="height: 600px;"></div>
+<hr>
 
+## Route details
 The path out of Godmanchester is a little bit confusing as it heads to, and then through, the Godmanchester Nature Reserve but becomes clearer as it follows the river along Hemingford Meadow. 
 
 <div class="row">
@@ -72,20 +84,32 @@ The [Old Ferry Boat](https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-
 It's also a good place from which to visit the [Fen Drayton Lakes Reserve](https://www.rspb.org.uk/days-out/reserves/fen-drayton-lakes){:target="_blank"}
 
 ### Audio downloads
-{% for recording in site.data.recordings.watermills %}
+<div class="row">
+{% for item in site.data.recordings %}
+{% if item[1].stage == page.stage %}
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="card">
-  <img src="{{ recording.image }}" class="card-img-top" alt="Houghton Mill">
+  <img src="{{ item[1].image }}" class="card-img-top" alt="stowe">
   <div class="card-body">
-    <h5 class="card-title">{{ recording.heading }}</h5>
-    <p class="card-text">{{ recording.about }}</p>
+    <h5 class="card-title">{{ item[1].heading }}</h5>
+    <p class="card-text">{{ item[1].about }}</p>
         <audio controls>
-          <source src="{{ site.baseurl }}{{ recording.filepath }}" type="audio/mpeg">
+          <source src="{{ site.baseurl }}{{ item[1].filepath }}" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
   </div>
 </div>
+</div>
+{% endif %}
 {% endfor %}
+</div>
 
+<hr>
+
+## Public transport
+The routes between Godmanchester and Holywell involve several buses. The easiest approach is to catch the 'B' bus between Huntingdon and St Ives which covers most of the distance. [Stagecoach](https://www.stagecoachbus.com/)
+
+<hr>
 Next leg: [Holywell to Earith](/walks/5-holywell-to-earith-75-km.html)
 
 Back to [overview](/walks/ousevalleyway.html)
