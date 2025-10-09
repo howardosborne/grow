@@ -15,25 +15,25 @@ An epic 150 mile source-to-sea route, which meanders from headwaters through nav
 
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <div class="card">
+        <div class="card zoom">
+            <a href="/walks/ousevalleyway.html">
             <img src="/assets/images/points/mortimer_park.jpg" class="card-img" alt="ovw">
-            <div class="card-img-overlay" style="align-content: end">
-                <a href="/walks/ousevalleyway.html">
+            <div class="card-img-overlay" style="align-content: end">    
                 <h3 class="card-title" style="color:white">Ouse Valley Way</h3>
                 <p class="card-text" style="color:white">Follow the course from source to sea</p>
-                </a>
             </div>
+            </a>
         </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <div class="card">
+        <div class="card zoom">
+            <a href="/audio.html">
             <img src="/assets/images/1/athena_bcs.jpg" class="card-img" alt="audio">
             <div class="card-img-overlay" style="align-content: end">
-            <a href="/audio.html">
                 <h3 class="card-title" style="color:white">Audio Companion</h3>
                 <p class="card-text" style="color:white">Stories of the places along the way.</p>
-            </a>
             </div>
+            </a>
         </div>
     </div>
 </div>
