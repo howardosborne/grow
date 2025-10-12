@@ -42,9 +42,6 @@ However, it's fair to say that maintenance along this stretch has been rather la
             </a>
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/3-stony-stratford-to-newport-pagnell-165-km.html">
@@ -67,9 +64,6 @@ However, it's fair to say that maintenance along this stretch has been rather la
             </a>
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/5-olney-to-odell-13-km.html">
@@ -92,9 +86,6 @@ However, it's fair to say that maintenance along this stretch has been rather la
             </a>
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/7-pavenham-to-bedford-155-km.html">
@@ -146,9 +137,6 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             </a>        
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/3-st-neots-to-godmanchester-164-km.html">
@@ -171,9 +159,6 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
             </a>
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/5-holywell-to-earith-75-km.html">
@@ -218,9 +203,6 @@ Compared to the walks in the previous sections, these are sparser in features an
             </a>
         </div>
     </div>
-</div>
-<br>
-<div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
             <a href="/walks/3-downham-market-to-kings-lynn-185-km.html">

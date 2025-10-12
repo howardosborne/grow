@@ -6,9 +6,9 @@ loadFunction: loadChatMap()
 ---
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        Discover more about the people and places along the Ouse Valley way. 
+        Want to know more about the places you pass along the Ouse Valley Way? 
         <br>
-        <i>Podcast coming soon</i>
+        Let's listen to some people who can teach us a thing or two...
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div id="map" class="col-md-12" style="height: 300px;"></div>

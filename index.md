@@ -6,12 +6,8 @@ description: Exploring the Great Ouse from source to sea.
 loadFunction: loadWaterbodies()
 ---
 
-From source to sea, the Great Ouse wends its way through a precious and fascinating land. Why not discover it and the people who live here by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or joining one of the [groups](./join.html) working to improve the river system.
+From fields in the heart of England to Wash, the Great Ouse wends its way through a precious and fascinating land. Why not discover it and the people who live here by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or joining one of the [groups](./join.html) working to improve the river system.
 
-<!--
-### Ouse Valley Way
-150 miles of walking, cycling, paddling or with public transport on hand.
--->
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
@@ -39,6 +35,14 @@ From source to sea, the Great Ouse wends its way through a precious and fascinat
 
 <hr>
 
-### More than a river
-The Great Ouse is more than a river, it's what links a catchment of brooks, streams, navigations and even other rivers. 
-<div id="map" class="col-md-12" style="height: 600px;"></div>
+### Explore
+
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        The Great Ouse is more than a single course of water. Hover over the map to explore the brooks, streams, rivers and man-made navigations that make up the catchment.
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <!--<img src="/assets/images/great_ouse.png" class="card-img" alt="great ouse">-->
+        <div id="map" class="col-12" style="height: 400px;"></div>
+    </div>
+</div>
