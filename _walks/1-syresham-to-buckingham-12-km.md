@@ -21,15 +21,12 @@ loadFunction: loadOVWLeg(52.01813640015964, -1.0137267176746108,12)
 <hr>
 
 ## Route details
-For purists, near might not feel near enough and they would like to start at the actual source.
-
 The first part of the way starts *near* the source of the river in Syresham.
 
 <img class="rounded card-img-top" src="/assets/images/1/The%20source%20of%20the%20Great%20Ouse.jpg" alt="syresham to buckingham">
 
 #### Finding the source
-
-If that's you, then you could walk up the road towards Wappenham where the source can be found and it is marked on the map. It starts with a depression wending its way through the fields at Wappenham Lodge Farm and feeding into a pond, which presumably has been used in the past as a source of water for cattle. These days it's fenced off and the sheep make do with tap water.
+For purists, near might not feel near enough and they would like to start at the *actual* source. If that's you, then you could walk up the road towards Wappenham where the source can be found and it is marked on the map. It starts with a depression wending its way through the fields at Wappenham Lodge Farm and feeding into a pond, which presumably has been used in the past as a source of water for cattle. These days it's fenced off and the sheep make do with tap water.
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -51,7 +48,7 @@ However, not everyone agrees that this is *the* source and there's a rival sprin
 </div>
 </div>
 
-But that's not all: There are [26 waterbodies](https://environment.data.gov.uk/catchment-planning/OperationalCatchment/3491){:target="_blank"} that feed into the headwaters of the Great Ouse. Feel free to start at a different point if you'd like, after all, if every journey starts with a single step then doesn't every river start with a single raindrop?
+But that's not all: There are [26 waterbodies](https://environment.data.gov.uk/catchment-planning/OperationalCatchment/3491){:target="_blank"} that feed into the headwaters of the Great Ouse. Feel free to start at a different point if you like, after all, if every journey starts with a single step then doesn't every river start with a single raindrop?
 
 Syresham does have the obvious advantage that it's on a bus route. Public transport details are [below](#public-transport).
 

@@ -72,7 +72,7 @@ Continuing into Bromham, the route meets back up with the Great Ouse at Bromham 
 
 The official route continues along the riverside and is accompanied by the unrelenting sound of traffic from the A6 before ducking unexpectedly into a housing estate at Great Denham. Alternative routes have been marked on the map...
 
-Heading into town, you'll pass near to the [Guru Nanak Gudwara Temple](http://gngbedford.org/){:target="_blank"} which is open to hopsitality and the Eagle Brewery which, alas, is not. If you are desperate for a brewery tour, then you could visit their new facility at [Brewpoint](https://www.brewpoint.co.uk/){:target="_blank"}
+Heading into town, you'll pass near to the [Guru Nanak Gudwara Temple](http://gngbedford.org/){:target="_blank"} which welcomes passersby and the Eagle Brewery which, alas, does not. If you are desperate for a brewery tour, then you could visit their new facility at [Brewpoint](https://www.brewpoint.co.uk/){:target="_blank"}
 
 Bedford makes the most of its river setting and a stroll through the parks that run along the river is a chance to see how it is actively used by local schools and enthusiats alike for rowing and kayaking.
 

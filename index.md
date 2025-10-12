@@ -6,7 +6,7 @@ description: Exploring the Great Ouse from source to sea.
 loadFunction: loadWaterbodies()
 ---
 
-From fields in the heart of England to Wash, the Great Ouse wends its way through a precious and fascinating land. Why not discover it and the people who live here by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or joining one of the [groups](./join.html) working to improve the river system.
+From the heart of England to the Wash, the Great Ouse wends its way through a precious and fascinating landscape. Why not discover it by [walking](./walks.html), [paddling](./paddling.html), [swimming](./swimming.html), [hiring a boat](./boating.html) or even joining one of the [active groups](./join.html) working to improve the river system.
 
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">

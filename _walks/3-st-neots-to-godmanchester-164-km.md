@@ -55,7 +55,7 @@ Not all of the way to Godmanchester is as accessible as it could be with fallen 
 </div>
 </div>
 
-The East Coast Mainline railway runs parallel to the river and increasing makes its presence felt until you're close enough to do some trainspotting. On the far side are the twin villages of Offord Cluny and Offord d'Arcy. Each has a church that's big enough for both except one is a spire making it *slightly* more impressive. 
+The East Coast Mainline railway runs parallel to the river and increasingly makes its presence felt until you're close enough to do some trainspotting. On the far side are the twin villages of Offord Cluny and Offord d'Arcy. Each has a church that's big enough for both except one is a spire making it *slightly* more impressive. 
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
