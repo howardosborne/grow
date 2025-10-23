@@ -26,5 +26,12 @@ If you are looking to hire a canoe in the Milton Keynes area, then [Canoe the Ou
 
 For Bedford, try [Canoe Trail](https://www.canoetrail.co.uk/canoe-kayak-sup-hire/canoe-hire){:target="_blank"}.
 
+## Reporting pollution 
+It's not nice to think about the sorts of things that could have ended up in the river, but if you see (or smell) a potential source of pollution then report it to the Environment Agency.
+
+Environment Agency Hotline: 0800 807060
+
+[Environment Agency](https://www.gov.uk/report-environmental-problem)
+
 ## Houghton Mill
 The National Trust have prodiced some guidance on [canoeing from Houghton Mill](https://www.nationaltrust.org.uk/visit/cambridgeshire/houghton-mill-and-waterclose-meadows/canoeing-from-houghton-mill-to-st-ives){:target="_blank"}

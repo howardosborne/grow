@@ -36,9 +36,29 @@ Some local action groups do carry out bacterial testing, but are not in a positi
 - take warm layers with you
 - it's always safer to go with someone else.
 
-## Do I have a right to use the water?
-You may not access any river bank without the land owner's consent.
+### Reporting pollution 
+It's not nice to think about the sorts of things that could have ended up in the river, but early reporting can make a difference. This could include:
+- sewage
+- waste, spills or leaks from farms
+- waste, spills or leaks from factories or other industry
+- spills or leaks from objects 
 
+If you see (or smell) a potential source of pollution then report it to the Environment Agency.
+
+Environmental problems can include: 
+
+- water pollution
+- flooding
+- smells
+- damage to nature
+- illegal fishing
+- a collapsed river bank
+
+Environment Agency Hotline: 0800 807060
+
+[Environment Agency](https://www.gov.uk/report-environmental-problem)
+
+## Finding a swimming group
 Joining a swimming group is a great way to make friends and stay safe when taking the plunge and the [Bluetits website](https://thebluetits.co/){:target="_blank"} is a good place to find a group near you.
 
 Current groups in the Great Ouse catchment:
