@@ -1,0 +1,33 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Great Ouse Ways</title>
+    <itunes:owner>
+        <itunes:email>howard@greatouseways.info</itunes:email>
+    </itunes:owner>
+    <itunes:author>Howard</itunes:author>
+    <itunes:image href="https://greatouseways.info/assets/images/podthumb.jpg"/>
+    <language>en-uk</language>
+    <description><![CDATA[The Great Ouse runs for 150 miles through Middle England and you can follow its route by walking the Ouse Valley Way. I've already completed it and met allsorts of people on the way from rangers to river rinsers. You can listen to the conversations we had in this audio series. More details are available including a map on the <a href='https://greatouseways.info'>Great Ouse Ways website<\a>]]></description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <itunes:category text="Games &amp; Hobbies"/>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {%- for item in site.data.recordings %}
+    {%- if item[1].draft == "false" %}
+      <item>
+        <title>{{ item[1].heading | xml_escape }}</title>
+        <description>{{ item[1].about | xml_escape }}</description>
+        <pubDate>{{ item[1].date | date_to_rfc822 }}</pubDate>
+        <itunes:image url='{{ item[1].image | prepend: site.baseurl | prepend: site.url }}' />
+        <enclosure url='{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}' type='audio/mpeg' length='{{ item[1].size }}'/>
+        <guid isPermaLink="true">{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endif -%}
+    {% endfor -%}
+  </channel>
+</rss>

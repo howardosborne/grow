@@ -8,8 +8,6 @@ url: "https://greatouseways.info"
 bsky_username: greatouseways.bsky.social
 
 theme: jekyll-theme-clean-blog
-plugins:
-  - jekyll-feed
 
 exclude:
     - docs/
