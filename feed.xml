@@ -23,7 +23,7 @@ layout: null
         <title>{{ item[1].heading | xml_escape }}</title>
         <description>{{ item[1].about | xml_escape }}</description>
         <pubDate>{{ item[1].date | date_to_rfc822 }}</pubDate>
-        <itunes:image url='{{ item[1].image | prepend: site.baseurl | prepend: site.url }}' />
+        <itunes:image url='{{ item[1].pod_image | prepend: site.baseurl | prepend: site.url }}' />
         <enclosure url='{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}' type='audio/mpeg' length='{{ item[1].size }}'/>
         <guid isPermaLink="true">{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
