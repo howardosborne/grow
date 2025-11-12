@@ -27,9 +27,9 @@ layout: null
         <itunes:image href='{{ item[1].pod_image | prepend: site.baseurl | prepend: site.url }}' />
         <link>{{ site.url }}{{ site.baseurl }}/audio.html?chat={{ item[0] }}</link>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:summary>{{ item[1].about | xml_escape }}</itunes:summary>
+        <itunes:summary>{{ item[1].about | xml_escape }}&lt;br&gt;&lt;a href=&apos;https://greatouseways.info/audio.html?chat={{ item[0] }}&apos; target=&apos;blank&apos;&gt;location on map&lt;/a&gt;</itunes:summary>
         <itunes:author>Howard</itunes:author>
-        <content:encoded>{{ item[1].about | xml_escape }}</content:encoded>
+        <content:encoded>{{ item[1].about | xml_escape }}&lt;br&gt;&lt;a href=&apos;https://greatouseways.info/audio.html?chat={{ item[0] }}&apos; target=&apos;blank&apos;&gt;location on map&lt;/a&gt;</content:encoded>
         <enclosure url='{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}' type='audio/mpeg' length='{{ item[1].size }}'/>
         <guid isPermaLink="true">{{ item[1].filepath | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
