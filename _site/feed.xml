@@ -12,8 +12,8 @@
     <link>https://greatouseways.info/</link>
     <itunes:category text="Games &amp; Hobbies"/>
     <atom:link href="https://greatouseways.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Nov 2025 08:15:42 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 08:15:42 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 09:02:20 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 09:02:20 +0000</lastBuildDate>
       <item>
         <title>Introduction</title>
         <description>About this series</description>
@@ -192,6 +192,15 @@
         <itunes:image url='https://greatouseways.info/assets/images/podthumbs/roxton_church.jpg' />
         <enclosure url='https://greatouseways.info/assets/audio/roxtonchapel.mp3' type='audio/mpeg' length='9226200'/>
         <guid isPermaLink="true">https://greatouseways.info/assets/audio/roxtonchapel.mp3</guid>
+      </item>
+    
+      <item>
+        <title>Roxton Chapel bonus</title>
+        <description>If you are curious to know what the wonderful organ at Roxton Chapel sounds like, Richard has very kindly agreed to record and share a selction of hymns with us.</description>
+        <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+        <itunes:image url='https://greatouseways.info/assets/images/podthumbs/roxton_chapel_bonus.jpg' />
+        <enclosure url='https://greatouseways.info/assets/audio/roxton_chapel_bonus.mp3' type='audio/mpeg' length='3771864'/>
+        <guid isPermaLink="true">https://greatouseways.info/assets/audio/roxton_chapel_bonus.mp3</guid>
       </item>
     
       <item>
