@@ -11,7 +11,7 @@ layout: null
     <itunes:author>Howard</itunes:author>
     <itunes:image href="https://greatouseways.info/assets/images/podthumb.jpg"/>
     <language>en-uk</language>
-    <description><![CDATA[The Great Ouse runs for 150 miles through Middle England and you can follow its route by walking the Ouse Valley Way. I've already completed it and met allsorts of people on the way from rangers to river rinsers. You can listen to the conversations we had in this audio series. More details are available including a map on the <a href='https://greatouseways.info'>Great Ouse Ways website<\a>]]></description>
+    <description><![CDATA[<p>The Great Ouse runs for 150 miles through Middle England and you can follow its route by walking the Ouse Valley Way.</p><p>I've already completed it and met allsorts of people on the way from rangers to river rinsers. You can listen to the conversations we had in this audio series.</p><p>More details are available including a map on the <a href='https://greatouseways.info'>Great Ouse Ways website</a></p>]]></description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
