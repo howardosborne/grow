@@ -8,10 +8,10 @@ layout: null
     <itunes:owner>
         <itunes:email>howard@greatouseways.info</itunes:email>
     </itunes:owner>
-    <itunes:author>Howard</itunes:author>
+    <itunes:author>Howard Osborne</itunes:author>
     <itunes:image href="https://greatouseways.info/assets/images/podthumb.jpg"/>
     <language>en-uk</language>
-    <description><![CDATA[<p>The Great Ouse runs for 150 miles through Middle England and you can follow its route by walking the Ouse Valley Way.</p><p>I've already completed it and met allsorts of people on the way from rangers to river rinsers. You can listen to the conversations we had in this audio series.</p><p>More details are available including a map on the <a href='https://greatouseways.info'>Great Ouse Ways website</a></p>]]></description>
+    <description><![CDATA[<p>The source-to-sea audio companion for the Great Ouse.</p><p>For 150 miles, the Great Ouse meanders through Middle England and you can follow its route by walking the Ouse Valley Way.</p><p>I've met all sorts of people on the way from rangers to river rinsers. You can listen to the conversations we had along the way.</p><p>More details are available including a map on the <a href='https://greatouseways.info'>Great Ouse Ways website</a></p>]]></description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <itunes:category text="Leisure"/>
     <itunes:explicit>false</itunes:explicit>
