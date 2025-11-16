@@ -19,7 +19,7 @@ loadFunction: loadChatMap()
 {% for item in site.data.recordings %}
 {% if item[1].draft == "false" %}
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" >
-        <div class="card" style="margin-bottom:5px">
+        <div class="card" id="{{ item[0] }}" style="margin-bottom:5px">
             <img src="{{ item[1].image }}" class="card-img" alt="{{ item[1].heading }}">
             <h3 class="card-title" >{{ item[1].heading }}</h3>
             <p class="card-text" >{{ item[1].about }}</p>
