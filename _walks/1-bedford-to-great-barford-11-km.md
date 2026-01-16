@@ -4,7 +4,7 @@ title: Bedford to Great Barford
 background: /assets/images/2/grange.jpg
 description: Distance 11 km
 stage: 8
-loadFunction: loadOVWLeg(52.13620968346213, -0.4067219774980595,12)
+loadFunction: loadOVWLeg(52.13620968346213, -0.4067219774980595,12,['Bedford to Great Barford'])
 ---
 ## Contents
 

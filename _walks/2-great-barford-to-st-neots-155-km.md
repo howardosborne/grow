@@ -4,7 +4,7 @@ title: Great Barford to St Neots
 background: /assets/images/2/eaton_socon_weir.jpg
 description: Distance 15.5 km
 stage: 9
-loadFunction: loadOVWLeg(52.18296647897254, -0.3083600078899254,12)
+loadFunction: loadOVWLeg(52.18296647897254, -0.3083600078899254,12,['Great Barford to St Neots'])
 ---
 ## Contents
 

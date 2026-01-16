@@ -4,7 +4,7 @@ title: Olney to Odell
 background: /assets/images/1/to_turvey.jpg
 description: Distance 13 km
 stage: 5
-loadFunction: loadOVWLeg(52.16695535798543, -0.6249535720779718,12)
+loadFunction: loadOVWLeg(52.16695535798543, -0.6249535720779718,12,['Olney to Odell'])
 ---
 ## Contents
 

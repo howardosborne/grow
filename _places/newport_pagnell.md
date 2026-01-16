@@ -10,7 +10,7 @@ Newport Pagnell is one of the 13 historic towns and villages that make up the ci
 
 To the north of the town is the expansive Bury Field which has a small beach on the banks of the Great Ouse and is a popular area for wild swimming, particularly dogs...
 
-The field is also used as a Park Run 'trail run' for runners who like a few obstacles on the route. Some of the undulations in Bury Field turn out to be [English Civil War defences](https://historicengland.org.uk/listing/the-list/list-entry/1021389?section=official-list-entry) and it was here that John Bunyan was stationed. His relevance ecomes clearer closer to Bedford.
+The field is also used as a Park Run 'trail run' for runners who like a few obstacles on the route. Some of the undulations in Bury Field turn out to be [English Civil War defences](https://historicengland.org.uk/listing/the-list/list-entry/1021389?section=official-list-entry) and it was here that John Bunyan was stationed. His relevance becomes clearer closer to Bedford.
 
 Newport Pagnell is the original home of Aston Martin and there's a showroom in the town in case you don't fancy taking the bus home.
 

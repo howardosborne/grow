@@ -19,6 +19,6 @@ Two good options for staying in Olney are the [Bull Hotel](https://www.bullhotel
 
 ### Getting there
 The No. 21 bus connects to [Newport Pagnell](./newport-pagnell.html) via Sherington.
-The No. 41 connects Olney with [Bedford](./bedford.html) via Turvey and Bromham which are both on route to Beford, but getting to places like [Harrold](./harrold.html), [Odell](./odell.html) or [Pavenham](./pavenham.html) is more convoluted.
+The No. 41 connects Olney with [Bedford](./bedford.html) via Turvey and Bromham which are both on route to Bedford, but getting to places like [Harrold](./harrold.html), [Odell](./odell.html) or [Pavenham](./pavenham.html) is more convoluted.
 
 [Stagecoach](https://www.stagecoachbus.com/)

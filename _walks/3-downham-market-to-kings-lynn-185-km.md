@@ -4,7 +4,7 @@ title: Downham Market to Kings Lynn
 background: /assets/images/3/wiggenshalls_2.jpg
 description: Distance 18.5 km
 stage: 15
-loadFunction: loadOVWLeg(52.67509474063244, 0.3692075631781401,12)
+loadFunction: loadOVWLeg(52.67509474063244, 0.3692075631781401,12,['Downham Market to Kings Lynn'])
 ---
 ## Contents
 

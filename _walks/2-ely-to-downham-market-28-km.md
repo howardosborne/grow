@@ -4,7 +4,7 @@ title: Ely to Downham Market
 background: /assets/images/3/willow_farm.jpg
 description: Distance 28 km
 stage: 14
-loadFunction: loadOVWLeg(52.5007314504582, 0.36680632463759716,12)
+loadFunction: loadOVWLeg(52.5007314504582, 0.36680632463759716,12,['Ely to Downham Market'])
 ---
 ## Contents
 

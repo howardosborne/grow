@@ -4,7 +4,7 @@ title: St Neots to Godmanchester
 background: /assets/images/2/paxton_pits.jpg
 description: Distance 16.4 km
 stage: 10
-loadFunction: loadOVWLeg(52.28910893512988, -0.21304488747717346,12)
+loadFunction: loadOVWLeg(52.28910893512988, -0.21304488747717346,12,['St Neots to Godmanchester'])
 ---
 ## Contents
 

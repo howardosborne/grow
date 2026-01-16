@@ -4,7 +4,7 @@ title: Syresham to Buckingham
 background: /assets/images/1/path_through_Whitfield_Wood_5.jpg
 description: Distance 12km
 stage: 1
-loadFunction: loadOVWLeg(52.01813640015964, -1.0137267176746108,12)
+loadFunction: loadOVWLeg(52.01813640015964, -1.0137267176746108,12,['Syresham to Buckingham'])
 ---
 ## Contents
 

@@ -4,7 +4,7 @@ title: Stony Stratford to Newport Pagnell
 background: /assets/images/1/Stony%20Stratford.jpg
 description: Distance 16.5 km
 stage: 3
-loadFunction: loadOVWLeg(52.065058871999796, -0.8057663750276123,12)
+loadFunction: loadOVWLeg(52.065058871999796, -0.8057663750276123,12,['Stony Stratford to Newport Pagnell'])
 ---
 ## Contents
 

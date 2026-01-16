@@ -4,7 +4,7 @@ title: Godmanchester to Holywell
 background: /assets/images/2/houghton_mill.jpg
 description: Distance 12.5 km
 stage: 11
-loadFunction: loadOVWLeg(52.32993564785955, -0.0873887597458531,12)
+loadFunction: loadOVWLeg(52.32993564785955, -0.0873887597458531,12,['Godmanchester to Holywell'])
 ---
 ## Contents
 

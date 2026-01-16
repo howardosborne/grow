@@ -10,7 +10,7 @@ Not many villages can boast of having their own palace, so Buckden might very we
 
 Buckden Towers used to be the residence of the Bishops of Lincoln and Catherine of Aragon was held here in 1533. It's now now a Catholic retreat [Buckden Towers](https://www.buckden-towers.org.uk/), but you can still walk into the grounds and see the tower on your way to visiting the church in the grounds.
 
-The village also has a collection of coaching inns which used to serve the Great North Road. THese days, the A1 bypasses the place and it's now surprisingly peaceful.
+The village also has a collection of coaching inns which used to serve the Great North Road. These days, the A1 bypasses the place and it's now surprisingly peaceful.
 
 ### Accommodation
 The [Lion Hotel](http://www.thelionbuckden.com/) and the [George Hotel](http://www.thegeorgebuckden.com/) are former coaching inns that still will put you up for the night. Other options can be found at [Booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Buckden)

@@ -6,9 +6,9 @@ lat: 52.15140427058968
 lng: -0.3436272269134937
 background: /assets/images/2/great_barford.jpg
 ---
-Great Barford is a pleasant village of around 2,000 people with a pub and an old church but the star of the show is its expansive bridge, which has been keep ferrymen out of business since the 15th Century.
+Great Barford is a pleasant village of around 2,000 people with a pub and an old church but the star of the show is its expansive bridge, which has been keeping ferrymen out of business since the 15th Century.
 
-As well as a bridge, it also has a weir a couple of hundre meters dowstream making it a perfect place to and a canoeing trip from Bedford. 
+As well as a bridge, it also has a weir a couple of hundred meters downstream making it a perfect place to paddle and finish a canoeing trip from Bedford. 
 
 There is also a friendly pub across the road.
 

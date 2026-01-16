@@ -6,11 +6,11 @@ lat: 52.13834442793227
 lng: -0.4674572440035926
 background: /assets/images/bedford.jpg
 ---
-Bedford, as the name suggests, came about because it was a ford across the river and became a prospeous market town thanks to the river being made navigable. 
+Bedford, as the name suggests, came about because it was a ford across the river and became a prosperous market town thanks to the river being made navigable. 
 
 It's a place that has made the most of its river setting and many locals take advantage of the strollable Embankment and Priory Country Park. 
 
-You will also ususally see rowers on the river from local schools and enthusiasts alike.
+You will also usually see rowers on the river from local schools and enthusiasts alike.
 
 If you fancy a paddle yourself then you can hire a canoe, kayak or paddleboard from [Canoe Trail](https://www.canoetrail.co.uk/canoe-kayak-sup-hire/bedford). You can even hire a canoe to paddle to Great Barford which is all part of the Ouse Valley Way.
 

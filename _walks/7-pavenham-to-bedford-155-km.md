@@ -4,7 +4,7 @@ title: Pavenham to Bedford
 background: /assets/images/1/pew_carvings_2.jpg
 description: Distance 15.5 km
 stage: 7
-loadFunction: loadOVWLeg(52.16158520906302, -0.532256429278968,12)
+loadFunction: loadOVWLeg(52.16158520906302, -0.532256429278968,12,['Pavenham to Bedford'])
 ---
 ## Contents
 

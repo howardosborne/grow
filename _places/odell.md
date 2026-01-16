@@ -11,7 +11,7 @@ Odell is a village of around 200 people which apparently takes its name from the
 Any erstwhile dying industry has gone the same way as the castle that used to be here, but what has been left behind is a substantial church and a pub.
 
 ### Accommodation
-The best options for accomodation are in Harrold which can be found on [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Harrold%2C+Bedfordshire%2C)
+The best options for accommodation are in Harrold which can be found on [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Harrold%2C+Bedfordshire%2C)
 
 ### Getting there
 Odell is the other end of the Harrold Odell Country Park and best connections go from there to Bedford.

@@ -4,7 +4,7 @@ title: Earith to Ely
 background: /assets/images/3/ely_2.jpg
 description: Distance 25 km
 stage: 13
-loadFunction: loadOVWLeg(52.35164556993051, 0.1996290639083427,12)
+loadFunction: loadOVWLeg(52.35164556993051, 0.1996290639083427,12,['Earith to Ely'])
 ---
 ## Contents
 

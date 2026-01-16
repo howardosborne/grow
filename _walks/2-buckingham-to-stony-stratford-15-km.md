@@ -4,7 +4,7 @@ title: Buckingham to Stony Stratford
 background: /assets/images/1/Great%20Ouse%20from%20Buckingham.jpg
 description: Distance 15 km
 stage: 2
-loadFunction: loadOVWLeg(52.023508802629614, -0.8961279318601949,12)
+loadFunction: loadOVWLeg(52.023508802629614, -0.8961279318601949,12,['Buckingham to Stony Stratford'])
 ---
 ## Contents
 

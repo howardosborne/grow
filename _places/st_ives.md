@@ -8,11 +8,11 @@ background: /assets/images/2/st_ives_2.jpg
 ---
 St Ives is a historic market town in Huntingdonshire.
 
-It's an example of a place that grew in prosperity thanks to water-based trade links despite its vulnerability to flooding. As a result, it could spend money of structures such as its bridge, which is unique - not because it has its own chapel (there are three others in England) but because the chapel also spent time as a [bawdy house](https://en.wikipedia.org/wiki/St_Ives_Bridge)
+It's an example of a place that grew in prosperity thanks to water-based trade links despite its vulnerability to flooding. As a result, it could spend money on structures such as its bridge, which has its own chapel.
 
 The [Norris Museum](http://www.norrismuseum.org.uk/) is a good place to learn about the history of the place.
 
-[Holt Island](https://www.holtisland.org/) is worth visiting and is a chance to learn about the [history of the island](https://www.holtisland.org/history-of-holt-island-wildlife/) and the philantropist who made a valuable donation to the town.
+[Holt Island](https://www.holtisland.org/) is worth visiting and is a chance to learn about the [history of the island](https://www.holtisland.org/history-of-holt-island-wildlife/) and the philanthropist who made a valuable donation to the town.
 
 [St Ives Electric Boat Company](http://electricriverboat.co.uk/) offers both trips and self hire.
 

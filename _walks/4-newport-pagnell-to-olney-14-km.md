@@ -4,7 +4,7 @@ title: Newport Pagnell to Olney
 background: /assets/images/1/Haystack%20near%20Sherington.jpg
 description: Distance 14 km
 stage: 4
-loadFunction: loadOVWLeg(52.10851788150435, -0.7040708104620679,12)
+loadFunction: loadOVWLeg(52.10851788150435, -0.7040708104620679,12,['Newport Pagnell to Olney'])
 ---
 ## Contents
 

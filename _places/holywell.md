@@ -6,9 +6,9 @@ lat: 52.31900004449097
 lng: -0.04009837165005383
 background: /assets/images/holywell.jpg
 ---
-The 80 house village of Holywell (also Holywell-cum-Needingworth) owes its name to the holy well fed by a spring in front of St John the Baptist church.
+The 80 house village of Holywell (also known as Holywell-cum-Needingworth) owes its name to the holy well fed by a spring in front of St John the Baptist church.
 
-What makes it a particularly pleasant place to be is the river setting and lack of a through road. The Old Ferry Boat is also a good place to stop over while walking the Ouse Valley Way.
+What makes it a particularly pleasant place to be is the river setting. The lack of a through road makes it a place of peace which is only disturbed by bittern calls from RSPB Fen Drayton reserve across the river, which is well worth a visit.
 
 ### Accommodation
 The Old Ferry Boat and other alternatives are at [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Needingworth)

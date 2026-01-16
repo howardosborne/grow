@@ -4,7 +4,7 @@ title: Holywell to Earith
 background: /assets/images/3/earith_3.jpg
 description: Distance 7.5 km
 stage: 12
-loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12)
+loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12,['Holywell to Earith'])
 ---
 ## Contents
 

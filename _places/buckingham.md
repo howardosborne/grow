@@ -6,7 +6,7 @@ lat: 52.0019278
 lng: -0.986902381
 background: /assets/images/buckingham.jpg
 ---
-The old, but still growing, market town of Buckingham is worthwhile spending a some time to have a wander around.
+The old, but still growing, market town of Buckingham is worthwhile spending some time to have a wander around.
 
 The architectural highlight is the Old Gaol which was built to help revive the town's fortunes after *the* great fire in 1725. Alas, it didn't do the trick and county town status has stayed with Aylesbury ever since. 
 

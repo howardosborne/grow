@@ -17,4 +17,4 @@ The [Red Lion](https://www.redlionstevington.co.uk) offer food and drink.
 There are no places to stay in Stevington but there are options nearby at [airbnb](https://www.airbnb.co.uk/stevington-united-kingdom) and [booking.com](https://www.booking.com/searchresults.en-gb.html?ss=Stevington%2C+Bedfordshire%2C+United+Kingdom)
 
 ## Getting there
-Stevington in on the No 25 bus route from Bedford to Harrold via Pavenham.
+Stevington is on the No 25 bus route from Bedford to Harrold via Pavenham.

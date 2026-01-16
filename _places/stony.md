@@ -7,15 +7,15 @@ lng: -0.848775
 background: /assets/images/stony.jpg
 ---
 
-Stony Stratford is an old coaching town on Watling street that has become part of the city of Milton Keynes.
+Stony Stratford is an old coaching town on Watling Street that has become part of the city of Milton Keynes.
 
-As the name suggests, it's where Watling Street crossed the Great Ouse (street ford) and is a good place to stay or at least get something to eat and drink.
+As the name suggests, it's where Watling Street crosses the Great Ouse (street ford) and is a good place to stay or at least get something to eat and drink.
 
 While you're here, why not do as travellers in the past did and go to either the Cock Inn or the Bull Hotel and tell your own [Cock and Bull story](https://en.wikipedia.org/wiki/Cock_and_bull_story).
 
 If you are here on a Sunday, you can listen to (or even join) the folk musicians who meet up in the Vaults Bar.
 
-Fans of the cult film [Withnail & I](https://en.wikipedia.org/wiki/Withnail_and_I) can pay a visit to the Market Square and the Corwn Inn to search for the finest wines known to humanity.
+Fans of the cult film [Withnail & I](https://en.wikipedia.org/wiki/Withnail_and_I) can pay a visit to the Market Square and the Crown Inn to search for the finest wines known to humanity.
 
 ### Accommodation
 [Cock Hotel](https://www.greeneking.co.uk/pubs/buckinghamshire/cock-hotel)

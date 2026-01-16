@@ -9,7 +9,7 @@ background: /assets/images/stowe.jpg
 
 The first leg of the Ouse Valley Way skirts around Stowe Gardens which is probably *the* quintessential English Landscape Garden.
 
-They were designed and nutured by gardening gurus William Kent and Capability Brown back in the 18th Century and are now owned and run by the National Trust.
+They were designed and nutured by gardening gurus Charles Bridgeman, William Kent and Capability Brown back in the 18th Century and are now owned and run by the National Trust.
 
 {% for recording in site.data.recordings.stowegardens %}
 <div class="card">

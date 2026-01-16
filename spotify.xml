@@ -19,7 +19,7 @@ layout: null
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <spotify:countryOfOrigin>uk</spotify:countryOfOrigin>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/spotify.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {%- for item in site.data.recordings %}

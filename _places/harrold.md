@@ -6,7 +6,7 @@ lat: 52.20139849694009
 lng: -0.6083486434900376
 background: /assets/images/1/harrold_bridge_2.jpg
 ---
-Harrold is an attractive limestone village of around 1,500 people, but it's best features are out of town.
+Harrold is an attractive limestone village of around 1,500 people and it's well worth a wander around.
 
 Harrold bridge is a popular put-in point for kayak and paddleboarders while the adjoining Country Park offers walks around the former gravel pit turned nature reserve.
 
