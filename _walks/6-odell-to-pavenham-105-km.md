@@ -4,7 +4,7 @@ title: Odell to Pavenham
 background: /assets/images/1/pavenham_2.jpg
 description: Distance 10.5 km
 stage: 6
-loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12,['Odell to Pavenham'])
+loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12,['Odell Pavenham'])
 ---
 ## Contents
 
