@@ -5697,54 +5697,8 @@
 						-0.60243,
 						52.20005,
 						0
-					]
-				]
-			},
-			"properties": {
-				"name": "Olney to Harrold",
-                "distance": 12,
-                "link": "/walks/5-olney-to-harrold.html",
-                "image": "/assets/images/1/harrold_bridge_2.jpg",
-				"description": "Climb to the heights of Clifton Renes and then across to Bedfordshire.",
-				"stroke": "#f57c00",
-				"stroke-opacity": 1,
-				"strokewidth": 4
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "LineString",
-				"coordinates": [
-					[
-						-0.7462992,
-						52.1133161,
-						0
 					],
 					[
-						-0.7485308,
-						52.1108915,
-						0
-					]
-				]
-			},
-			"properties": {
-				"name": "Tyringham detour",
-                "distance": 1,
-                "link": "/walks/5-olney-to-odell-13-km.html",
-                "image": "/assets/images/points/tyringham_bridge.jpg",
-				"description": "Get a better view of Tyringham hall, gatehouse and bridge",
-				"stroke": "#6d69699a",
-				"stroke-opacity": 1,
-				"strokewidth": 3
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "LineString",
-				"coordinates": [
-										[
 						-0.60209,
 						52.20012,
 						0
@@ -5873,7 +5827,53 @@
 						-0.58885,
 						52.20955,
 						0
+					]
+				]
+			},
+			"properties": {
+				"name": "Olney to Odell",
+                "distance": 13,
+                "link": "/walks/5-olney-to-odell-13-km.html",
+                "image": "/assets/images/1/harrold_bridge_2.jpg",
+				"description": "Climb to the heights of Clifton Renes and then across to Bedfordshire.",
+				"stroke": "#f57c00",
+				"stroke-opacity": 1,
+				"strokewidth": 4
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-0.7462992,
+						52.1133161,
+						0
 					],
+					[
+						-0.7485308,
+						52.1108915,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "Tyringham detour",
+                "distance": 1,
+                "link": "/walks/5-olney-to-odell-13-km.html",
+                "image": "/assets/images/points/tyringham_bridge.jpg",
+				"description": "Get a better view of Tyringham hall, gatehouse and bridge",
+				"stroke": "#6d69699a",
+				"stroke-opacity": 1,
+				"strokewidth": 3
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
 					[
 						-0.58876,
 						52.20948,
@@ -6697,9 +6697,9 @@
 				]
 			},
 			"properties": {
-				"name": "Harrold Pavenham",
-                "distance": 12,
-                "link": "/walks/6-harrold-to-pavenham.html",
+				"name": "Odell Pavenham",
+                "distance": 10.5,
+                "link": "/walks/6-odell-to-pavenham-105-km.html",
                 "image": "/assets/images/1/shelter.jpg",
 				"description": "Loop round to see more bedfordshire villages and countryside, but not so much river.",
 				"stroke": "#f57c00",
@@ -14535,25 +14535,7 @@
                         -0.07477,
                         52.32421,
                         0
-                    ]
-                ]
-            },
-            "properties": {
-                "name": "Godmanchester to St Ives",
-                "distance": 10,
-                "link": "/walks/4-godmanchester-to-stives.html",
-                "image": "/assets/images/2/hemmingford_meadow_2.jpg",
-				"description": "The path out of Godmanchester is a little bit confusing as it heads to and then through the Godmanchester Nature Reserve but becomes clearer as it follows the river along Hemingford Meadow.",
-				"stroke": "#f57c00",
-				"stroke-opacity": 1,
-				"strokewidth": 4
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
+                    ],
                     [
                         -0.07424,
                         52.32394,
@@ -14814,7 +14796,7 @@
                         52.315,
                         0
                     ],
-					[
+                    [
                         -0.04371,
                         52.31508,
                         0
@@ -14963,7 +14945,25 @@
                         -0.03172,
                         52.31716,
                         0
-                    ],
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Godmanchester to Holywell",
+                "distance": 12.5,
+                "link": "/walks/4-godmanchester-to-holywell-125-km.html",
+                "image": "/assets/images/2/hemmingford_meadow_2.jpg",
+				"description": "The path out of Godmanchester is a little bit confusing as it heads to and then through the Godmanchester Nature Reserve but becomes clearer as it follows the river along Hemingford Meadow.",
+				"stroke": "#f57c00",
+				"stroke-opacity": 1,
+				"strokewidth": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.0309,
                         52.31745,
@@ -15537,11 +15537,11 @@
                 ]
             },
             "properties": {
-                "name": "St Ives to Earith",
-                "distance": 10,
-                "link": "/walks/5-stives-to-earith.html",
+                "name": "Holywell to Earith",
+                "distance": 7.5,
+                "link": "/walks/5-holywell-to-earith-75-km.html",
                 "image": "/assets/images/2/pike_and_eel_2.jpg",
-				"description": "Leaving St Ives, takes a more direct route than the river to Holywell were there is, unsurprisingly, a holy well.",
+				"description": "Leaving Holywell, the path heads along a dry ridge which is clearly useful in this floodable area",
 				"stroke": "#f57c00",
 				"stroke-opacity": 1,
 				"strokewidth": 4

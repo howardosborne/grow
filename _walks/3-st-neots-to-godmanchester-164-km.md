@@ -105,6 +105,6 @@ Train times: [National Rail](https://www.nationalrail.co.uk/journey-planner/)
 
 Bus times: [Whippet bus](https://www.whippetbus.co.uk/)
 <hr>
-Next leg: [Godmanchester to Holywell](/walks/4-godmanchester-to-holywell-125-km.html)
+Next leg: [Godmanchester to St Ives](/walks/4-godmanchester-to-stives.html)
 
 Back to [overview](/walks/ousevalleyway.html)

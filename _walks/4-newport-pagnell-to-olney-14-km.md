@@ -118,6 +118,6 @@ The No. 21 runs hourly between Newport Pagnell and Olney. Bus times: [Red Rose](
 
 <hr>
 
-Next leg: [Olney to Odell](/walks/5-olney-to-odell-13-km.html)
+Next leg: [Olney to Harrold](/walks/5-olney-to-harrold.html)
 
 Back to [overview](/walks/ousevalleyway.html)

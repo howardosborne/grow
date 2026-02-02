@@ -1,10 +1,10 @@
 ---
 layout: map
-title: Holywell to Earith
+title: St Ives to Earith
 background: /assets/images/3/earith_3.jpg
-description: Distance 7.5 km
+description: Distance 10 km
 stage: 12
-loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12,['Holywell to Earith'])
+loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12,['St Ives to Earith'])
 ---
 ## Contents
 
@@ -20,6 +20,29 @@ loadFunction: loadOVWLeg(52.32983074362752, 0.002046817816754357,12,['Holywell t
 <hr>
 
 ## Route details
+The 3 km walk from St Ives to Holywell takes a more direct route than the river, passing lakes and lagoons on both sides of the path. The walk goes up hill towards the church at Holywell, where there is, perhaps unsurprisingly, a holy well.
+
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<img src="/assets/images/2/holywell_5.jpg" class="rounded card-img-top" alt="holywell">
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<img src="/assets/images/2/holywell_4.jpg" class="rounded card-img-top" alt="holywell">
+</div>
+</div>
+
+The [Old Ferry Boat](https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-boat){:target="_blank"} is a good option for an overnight stay as well as refreshments.
+
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<img src="/assets/images/2/holywell.jpg" class="rounded card-img-top" alt="...">
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<img src="/assets/images/2/holywell_3.jpg" class="rounded card-img-top" alt="...">
+</div>
+</div>
+
+
 Leaving Holywell, the path heads along a dry ridge which is clearly useful in this floodable area
 
 <img src="/assets/images/2/holywell_6.jpg" class="rounded card-img-top" alt="...">

@@ -1,10 +1,10 @@
 ---
 layout: map
-title: Olney to Odell
+title: Olney to Harrold
 background: /assets/images/1/to_turvey.jpg
-description: Distance 13 km
+description: Distance 12 km
 stage: 5
-loadFunction: loadOVWLeg(52.16695535798543, -0.6249535720779718,12,['Olney to Odell'])
+loadFunction: loadOVWLeg(52.16695535798543, -0.6249535720779718,12,['Olney to Harrold'])
 ---
 ## Contents
 
@@ -91,8 +91,6 @@ The route then drops down to Harrold via a bridge that is well used to dealing w
 
 [Harrold Odell Country Park](https://hocp.co.uk/){:target="_blank"} is one of several accessible nature-rich habitats that have been created thanks to quarrying for sand and gravel. There's a visitor centre, cafe and pay-by-donation car park. The bridge is also a popular place for bathers and paddlers heading towards Felmersham.
 
-The route to Odell is entirely through the Country Park.
-
 <hr>
 ### Audio downloads
 <div class="row">
@@ -118,12 +116,12 @@ The route to Odell is entirely through the Country Park.
 <hr>
 
 ## Public transport
-Travel between Olney and Odell requires travelling into Bedford (No. 41) and back out again (No. 41). The No. 41 goes via Turvey which is half-way along the route.
+Travel between Olney and Harrold requires travelling into Bedford (No. 41) and back out again (No. 41). The No. 41 goes via Turvey which is half-way along the route.
 
 Bus times: [Grant Palmer](https://www.grantpalmer.com/).
 
 <hr>
 
-Next leg: [Odell to Pavenham](/walks/6-odell-to-pavenham-105-km.html)
+Next leg: [Harrold to Pavenham](/walks/6-harrold-to-pavenham.html)
 
 Back to [overview](/walks/ousevalleyway.html)

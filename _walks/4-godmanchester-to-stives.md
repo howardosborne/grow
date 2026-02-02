@@ -1,10 +1,10 @@
 ---
 layout: map
-title: Godmanchester to Holywell
+title: Godmanchester to St Ives
 background: /assets/images/2/houghton_mill.jpg
-description: Distance 12.5 km
+description: Distance 10 km
 stage: 11
-loadFunction: loadOVWLeg(52.32993564785955, -0.0873887597458531,12,['Godmanchester to Holywell'])
+loadFunction: loadOVWLeg(52.32993564785955, -0.0873887597458531,12,['Godmanchester to St Ives'])
 ---
 ## Contents
 
@@ -57,31 +57,9 @@ St Ives is an example of a place that grew in prosperity thanks to trade links d
 <img src="/assets/images/2/st_ives_bridge.jpg" class="rounded card-img-top" alt="st Ives bridge"></div>
 </div>
 
-There are some clues. The chapel on the bridge was built in the 15th Century for giving thanks for safe passage. Over time, the need for this reduced and the chapel became a pub to service the port workers' need for beer. It was also probably a [bawdy house](https://en.wikipedia.org/wiki/St_Ives_Bridge){:target="_blank"}.
+There are some clues. The chapel on the bridge was built in the 15th Century for giving thanks for safe passage. Over time, the need for this reduced and the chapel became a pub to service the port workers' need for beer. Despite rumours, it probably wasn't a [bawdy house](https://en.wikipedia.org/wiki/St_Ives_Bridge){:target="_blank"}.
 
-The 3 km walk from St Ives to Holywell takes a more direct route than the river, passing lakes and lagoons on both sides of the path. The walk goes up hill towards the church at Holywell, where there is, perhaps unsurprisingly, a holy well.
-
-<div class="row">
-<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-<img src="/assets/images/2/holywell_5.jpg" class="rounded card-img-top" alt="holywell">
-</div>
-<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-<img src="/assets/images/2/holywell_4.jpg" class="rounded card-img-top" alt="holywell">
-</div>
-</div>
-
-The [Old Ferry Boat](https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-boat){:target="_blank"} is a good option for an overnight stay as well as refreshments.
-
-<div class="row">
-<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-<img src="/assets/images/2/holywell.jpg" class="rounded card-img-top" alt="...">
-</div>
-<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-<img src="/assets/images/2/holywell_3.jpg" class="rounded card-img-top" alt="...">
-</div>
-</div>
-
-It's also a good place from which to visit the [Fen Drayton Lakes Reserve](https://www.rspb.org.uk/days-out/reserves/fen-drayton-lakes){:target="_blank"}
+It's worth considering taking a detour to visit the [Fen Drayton Lakes Reserve](https://www.rspb.org.uk/days-out/reserves/fen-drayton-lakes){:target="_blank"}.
 
 ### Audio downloads
 <div class="row">
@@ -107,9 +85,9 @@ It's also a good place from which to visit the [Fen Drayton Lakes Reserve](https
 <hr>
 
 ## Public transport
-The routes between Godmanchester and Holywell involve several buses. The easiest approach is to catch the 'B' bus between Huntingdon and St Ives which covers most of the distance. [Stagecoach](https://www.stagecoachbus.com/)
+The easiest approach is to catch the 'B' bus between Huntingdon and St Ives. [Stagecoach](https://www.stagecoachbus.com/)
 
 <hr>
-Next leg: [Holywell to Earith](/walks/5-holywell-to-earith-75-km.html)
+Next leg: [St Ives to Earith](/walks/5-stives-to-earith.html)
 
 Back to [overview](/walks/ousevalleyway.html)

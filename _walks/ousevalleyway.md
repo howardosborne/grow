@@ -66,11 +66,11 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/5-olney-to-odell-13-km.html">
+            <a href="/walks/5-olney-to-harrold.html">
             <img src="/assets/images/1/to_turvey.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
-                <h3 class="card-title" style="color:white">5 Olney to Odell</h3>
-                <p class="card-text" style="color:white">13 km</p>
+                <h3 class="card-title" style="color:white">5 Olney to Harrold</h3>
+                <p class="card-text" style="color:white">12 km</p>
             </div>
             </a>
         </div>
@@ -80,8 +80,8 @@ However, it's fair to say that maintenance along this stretch has been rather la
             <a href="/walks/6-odell-to-pavenham-105-km.html">
             <img src="/assets/images/1/pavenham_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
-                <h3 class="card-title" style="color:white">6 Odell to Pavenham</h3>
-                <p class="card-text" style="color:white">10.5 km</p>
+                <h3 class="card-title" style="color:white">6 Harrold to Pavenham</h3>
+                <p class="card-text" style="color:white">12 km</p>
             </div>
             </a>
         </div>
@@ -98,15 +98,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
         </div>
     </div>
 </div>
-<!--
-- [<u>Syresham to Buckingham (12 km)</u>](/walks/1-syresham-to-buckingham-12-km.html)
-- [<u>Buckingham to Stony Stratford (15 km)</u>](/walks/2-buckingham-to-stony-stratford-15-km.html)
-- [<u>Stony Stratford to Newport Pagnell (16.5 km)</u>](/walks/3-stony-stratford-to-newport-pagnell-165-km.html)
-- [<u>Newport Pagnell to Olney (14 km)</u>](/walks/4-newport-pagnell-to-olney-14-km.html)
-- [<u>Olney to Odell (13 km)</u>](/walks/5-olney-to-odell-13-km.html)
-- [<u>Odell to Pavenham (10.5 km)</u>](/walks/6-odell-to-pavenham-105-km.html)
-- [<u>Pavenham to Bedford (15.5 km)</u>](/walks/7-pavenham-to-bedford-155-km.html)
--->
+
 <hr>
 
 ## The Navigable River: Bedford to Earith
@@ -150,22 +142,22 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/4-godmanchester-to-holywell-125-km.html">
+            <a href="/walks/4-godmanchester-to-stives.html">
             <img src="/assets/images/2/houghton_mill.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
-                <h3 class="card-title" style="color:white">11 Godmanchester to Holywell</h3>
-                <p class="card-text" style="color:white">12.5 km</p>
+                <h3 class="card-title" style="color:white">11 Godmanchester to St Ives</h3>
+                <p class="card-text" style="color:white">10 km</p>
             </div>
             </a>
         </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/5-holywell-to-earith-75-km.html">
+            <a href="/walks/5-stives-to-earith.html">
             <img src="/assets/images/3/earith_3.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">            
-                <h3 class="card-title" style="color:white">12 Holywell to Earith</h3>
-                <p class="card-text" style="color:white">7.5 km</p>
+                <h3 class="card-title" style="color:white">12 St Ives to Earith</h3>
+                <p class="card-text" style="color:white">10 km</p>
             </div>
             </a>
         </div>
@@ -173,7 +165,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
 </div>
 <hr>
 
-## Fens: Ely to Kings Lynn
+## Fens: Earith to Kings Lynn
 
 The Fens are unique - or at least unique to England. Over in the Netherlands, reclaimed land put to good use is commonplace, but this landscape created with the help of a [Dutch engineer](https://en.wikipedia.org/wiki/Cornelius_Vermuyden) has been feeding England since the Civil War. 
 

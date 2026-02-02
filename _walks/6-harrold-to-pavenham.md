@@ -1,10 +1,10 @@
 ---
 layout: map
-title: Odell to Pavenham
+title: Harrold to Pavenham
 background: /assets/images/1/pavenham_2.jpg
-description: Distance 10.5 km
+description: Distance 12 km
 stage: 6
-loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12,['Odell Pavenham'])
+loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12,['Harrold Pavenham'])
 ---
 ## Contents
 
@@ -20,6 +20,8 @@ loadFunction: loadOVWLeg(52.20831535653447, -0.5531991172625262,12,['Odell Paven
 <hr>
 
 ## Route details
+Odell is the other end of Harrold Odell Country Park. 
+
 The route from Odell to Pavenham makes a long loop, as does the wending river and yet they barely meet, which is a shame. Even the part which does follow the course of the river through a golf course is obscured by woodland.
 
 <img class="rounded card-img-top" src="/assets/images/1/odell_church.jpg" alt="Odell Pavenham">
@@ -72,7 +74,7 @@ It's also where we join another walking route, the [John Bunyan Trail](https://e
 <hr>
 
 ## Public transport
-The No. 25 bus goes between Odell and Pavenham (and into Bedford).
+The No. 25 bus goes between Harrold and Pavenham (and into Bedford).
 
 Bus times: [Grant Palmer](https://www.grantpalmer.com/).
 
