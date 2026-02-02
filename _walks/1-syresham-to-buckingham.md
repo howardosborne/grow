@@ -156,6 +156,6 @@ The 87 bus stops at Syresham on its route between Brackley and Northampton. You 
 
 <hr>
 
-Next leg: [Buckingham to Stony Stratford](/walks/2-buckingham-to-stony-stratford-15-km.html)
+Next leg: [Buckingham to Stony Stratford](/walks/2-buckingham-to-stony-stratford.html)
 
 Back to [overview](/walks/ousevalleyway.html)

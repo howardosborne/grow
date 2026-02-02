@@ -101,6 +101,6 @@ Great Barford is a popular place for paddling - mainly upstream as 200 meters do
 The No. 905 runs every 30 minutes between Bedford and Cambridge stopping at Great Barford (and St Neots). Bus times: [Stagecoach](https://www.stagecoachbus.com/routes/east/905/bedford-cambridge).
 
 <hr>
-Next leg: [Great Barford to St Neots](/walks/2-great-barford-to-st-neots-155-km.html)
+Next leg: [Great Barford to St Neots](/walks/9-great-barford-to-st-neots.html)
 
 Back to [overview](/walks/ousevalleyway.html)

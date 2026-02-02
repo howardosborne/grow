@@ -113,6 +113,6 @@ There are trains every 30 mins Between Ely and Downham Market. [National Rail](h
 <hr>
 
 
-Next leg: [Downham Market to Kings Lynn](/walks/3-downham-market-to-kings-lynn-185-km.html)
+Next leg: [Downham Market to Kings Lynn](/walks/15-downham-market-to-kings-lynn.html)
 
 Back to [overview](/walks/ousevalleyway.html)

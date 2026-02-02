@@ -122,6 +122,6 @@ There is no direct bus between Stony and Newport, but you can catch a 6 or X6 in
 It's also worth noting that the X5 runs from Oxford to Bedford via Milton Keynes Central Station.
 <hr>
 
-Next leg: [Newport Pagnell to Olney](/walks/4-newport-pagnell-to-olney-14-km.html)
+Next leg: [Newport Pagnell to Olney](/walks/4-newport-pagnell-to-olney.html)
 
 Back to [overview](/walks/ousevalleyway.html)

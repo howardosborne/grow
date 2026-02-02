@@ -140,6 +140,6 @@ Eaton Socon is split from St Neots by the Great Ouse and walks from here into St
 The 905 bus runs between Bedford and Cambridge stopping at Great Barford and St Neots.[Stagecoach](https://www.stagecoachbus.com/)
 <hr>
 
-Next leg: [St Neots to Godmanchester](/walks/3-st-neots-to-godmanchester-164-km.html)
+Next leg: [St Neots to Godmanchester](/walks/10-st-neots-to-godmanchester.html)
 
 Back to [overview](/walks/ousevalleyway.html)

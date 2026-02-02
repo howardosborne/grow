@@ -22,7 +22,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/1-syresham-to-buckingham-12-km.html">
+            <a href="/walks/1-syresham-to-buckingham.html">
             <img src="/assets/images/1/path_through_Whitfield_Wood_5.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">1 Syresham to Buckingham</h3>
@@ -33,7 +33,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/2-buckingham-to-stony-stratford-15-km.html">
+            <a href="/walks/2-buckingham-to-stony-stratford.html">
             <img src="/assets/images/1/Great%20Ouse%20from%20Buckingham.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">2 Buckingham to Stony Stratford</h3>
@@ -44,7 +44,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/3-stony-stratford-to-newport-pagnell-165-km.html">
+            <a href="/walks/3-stony-stratford-to-newport-pagnell.html">
             <img src="/assets/images/1/Stony%20Stratford.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">3 Stony Stratford to Newport Pagnell</h3>
@@ -55,7 +55,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/4-newport-pagnell-to-olney-14-km.html">
+            <a href="/walks/4-newport-pagnell-to-olney.html">
             <img src="/assets/images/1/Haystack%20near%20Sherington.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">4 Newport Pagnell to Olney</h3>
@@ -77,7 +77,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/6-odell-to-pavenham-105-km.html">
+            <a href="/walks/6-odell-to-pavenham.html">
             <img src="/assets/images/1/pavenham_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">6 Harrold to Pavenham</h3>
@@ -88,7 +88,7 @@ However, it's fair to say that maintenance along this stretch has been rather la
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/7-pavenham-to-bedford-155-km.html">
+            <a href="/walks/7-pavenham-to-bedford.html">
             <img src="/assets/images/1/pew_carvings_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">7 Pavenham to Bedford</h3>
@@ -109,7 +109,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/1-bedford-to-great-barford-11-km.html">
+            <a href="/walks/8-bedford-to-great-barford.html">
             <img src="/assets/images/2/grange.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">8 Bedford to Great Barford</h3>
@@ -120,7 +120,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/2-great-barford-to-st-neots-155-km.html">
+            <a href="/walks/9-great-barford-to-st-neots.html">
             <img src="/assets/images/2/eaton_socon_weir.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">    
                 <h3 class="card-title" style="color:white">9 Great Barford to St Neots</h3>
@@ -131,18 +131,18 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/3-st-neots-to-godmanchester-164-km.html">
+            <a href="/walks/10-st-neots-to-godmanchester.html">
             <img src="/assets/images/2/paxton_pits.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">10 St Neots to Godmanchester</h3>
-                <p class="card-text" style="color:white">16.4 km</p>
+                <p class="card-text" style="color:white">16.5 km</p>
             </div>
             </a>
         </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/4-godmanchester-to-stives.html">
+            <a href="/walks/11-godmanchester-to-st-ives.html">
             <img src="/assets/images/2/houghton_mill.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">11 Godmanchester to St Ives</h3>
@@ -153,7 +153,7 @@ From the retreat of the Romans to the industrial revolution, it's fair to say th
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/5-stives-to-earith.html">
+            <a href="/walks/12-st-ives-to-earith.html">
             <img src="/assets/images/3/earith_3.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">            
                 <h3 class="card-title" style="color:white">12 St Ives to Earith</h3>
@@ -175,7 +175,7 @@ Compared to the walks in the previous sections, these are sparser in features an
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/1-earith-to-ely-25-km.html">
+            <a href="/walks/13-earith-to-ely.html">
             <img src="/assets/images/3/ely_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">13 Earith to Ely</h3>
@@ -186,7 +186,7 @@ Compared to the walks in the previous sections, these are sparser in features an
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/2-ely-to-downham-market-28-km.html">
+            <a href="/walks/14-ely-to-downham-market.html">
             <img src="/assets/images/3/willow_farm.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">14 Ely to Downham Market</h3>
@@ -197,7 +197,7 @@ Compared to the walks in the previous sections, these are sparser in features an
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="card zoom">
-            <a href="/walks/3-downham-market-to-kings-lynn-185-km.html">
+            <a href="/walks/15-downham-market-to-kings-lynn.html">
             <img src="/assets/images/3/wiggenshalls_2.jpg" class="card-img" alt="ovw">
             <div class="card-img-overlay" style="align-content: end">
                 <h3 class="card-title" style="color:white">15 Downham Market to Kings Lynn</h3>

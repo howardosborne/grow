@@ -142,6 +142,6 @@ Also, for a glimpse of how things used to be before the Dutch engineers arrived,
 Public transport is not practical between Holywell and Earith.
 
 <hr>
-Next leg: [Earith to Ely](/walks/1-earith-to-ely-25-km.html)
+Next leg: [Earith to Ely](/walks/13-earith-to-ely.html)
 
 Back to [overview](/walks/ousevalleyway.html)

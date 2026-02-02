@@ -112,6 +112,6 @@ Bus times: [Grant Palmer](https://www.grantpalmer.com/).
 
 <hr>
 
-Next Leg: [Bedford to Great Barford](/walks/1-bedford-to-great-barford-11-km.html)
+Next Leg: [Bedford to Great Barford](/walks/8-bedford-to-great-barford.html)
 
 Back to [overview](/walks/ousevalleyway.html)

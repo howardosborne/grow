@@ -88,6 +88,6 @@ It's worth considering taking a detour to visit the [Fen Drayton Lakes Reserve](
 The easiest approach is to catch the 'B' bus between Huntingdon and St Ives. [Stagecoach](https://www.stagecoachbus.com/)
 
 <hr>
-Next leg: [St Ives to Earith](/walks/5-stives-to-earith.html)
+Next leg: [St Ives to Earith](/walks/12-st-ives-to-earith.html)
 
 Back to [overview](/walks/ousevalleyway.html)

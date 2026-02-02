@@ -80,6 +80,6 @@ Bus times: [Grant Palmer](https://www.grantpalmer.com/).
 
 <hr>
 
-Next leg: [Pavenham to Bedford](/walks/7-pavenham-to-bedford-155-km.html)
+Next leg: [Pavenham to Bedford](/walks/7-pavenham-to-bedford.html)
 
 Back to [overview](/walks/ousevalleyway.html)

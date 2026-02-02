@@ -82,6 +82,6 @@ Bus times: [Tiger bus routes](https://cambridgeshirepeterborough-ca.gov.uk/tiger
 Alternatively, you could go via Cambridge.
 
 <hr>
-Next leg: [Ely to Downham Market](/walks/2-ely-to-downham-market-28-km.html)
+Next leg: [Ely to Downham Market](/walks/14-ely-to-downham-market.html)
 
 Back to [overview](/walks/ousevalleyway.html)

@@ -127,6 +127,6 @@ The X6 can be used to getting between the start and end points. Bus times [Arriv
 It's also worth noting that the X5 runs from Oxford to Bedford via Buckingham.
 <hr>
 
-Next leg: [Stony Stratford to Newport Pagnell](/walks/3-stony-stratford-to-newport-pagnell-165-km.html)
+Next leg: [Stony Stratford to Newport Pagnell](/walks/3-stony-stratford-to-newport-pagnell.html)
 
 Back to [overview](/walks/ousevalleyway.html)
