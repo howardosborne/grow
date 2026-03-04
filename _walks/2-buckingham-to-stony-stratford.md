@@ -31,7 +31,7 @@ The path leaving Buckingham starts with a short stretch along the old Buckingham
 </div>
 </div>
 
-Much of the route to up to Thornton follows the old canal and note how the old canal bed provides a haven for dfferent species.
+Much of the route to up to Thornton follows the old canal and note how the old canal bed provides a haven for different species.
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">

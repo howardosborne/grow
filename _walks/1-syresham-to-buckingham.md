@@ -21,7 +21,7 @@ loadFunction: loadOVWLeg(52.01813640015964, -1.0137267176746108,12,['Syresham to
 <hr>
 
 ## Route details
-The first part of the way starts *near* the source of the river in Syresham.
+The first part of the Ouse Valley Way starts *near* the source of the river in Syresham.
 
 <img class="rounded card-img-top" src="/assets/images/1/The%20source%20of%20the%20Great%20Ouse.jpg" alt="syresham to buckingham">
 
@@ -72,7 +72,7 @@ Unfortunately, the route is a little bit confusing at the start and not all the 
 </div>
 </div>
 
-The path through Whitfield Woods is well marked and it might be tempting to follow one of the animal tracks into the woods. Don't.
+The path through Whitfield Wood is well marked and it might be tempting to follow one of the animal tracks into the woods. Don't.
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
