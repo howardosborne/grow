@@ -42,7 +42,7 @@ Much of the route to up to Thornton follows the old canal and note how the old c
 </div>
 </div>
 
-At Thornton, which is home to a convent and associated private school, the route becomes trickier. The current issues have been marked on the map. 
+The route passes Thornton College which is a private boarding school and until 2025 was also a convent. The nuns have since moved to their mother house in Felixtowe. You can visit the Grade I listed church in the grounds by asking for a key at the College reception. From Thornton the route becomes trickier and the current issues have been marked on the map. 
 
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
