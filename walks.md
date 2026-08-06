@@ -11,7 +11,7 @@ There are many walks that will take you to, and along, the Great Ouse which vary
 <hr>
 
 ## Ouse Valley Way
-An epic 150 mile source-to-sea route, which meanders from headwaters through navigable towns and the Fens. Walk, paddle, cycle, use the bus or mix and match. Here is a guie to help you work it out:
+An epic 150 mile source-to-sea route, which meanders from headwaters through navigable towns and the Fens. Walk, paddle, cycle, use the bus or mix and match. Here is a guide to help you work it out:
 
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -50,6 +50,9 @@ Following the Bernwood Jubilee Way provides an interesting alternative starting 
 
 ### John Bunyan Trail
 Progress through the Slough of Despond in the footsteps of John Bunyan. The Wildlife Trust have produced a [downloadable trail booklet](https://www.wildlifebcn.org/sites/default/files/2021-09/john_bunyan_trail_-_book.pdf){:target="_blank"}.
+
+### Kingfisher Way
+The Kingfisher Way runs from the chalk-rich source of the River Ivel to its confluence with the Great Ouse. The North Hets Ramblers have produced [a downloadable leaflet](https://nhrg.org.uk/images/NewsandOffers/Kingfisher-Way-walk.pdf){:target="_blank"} of the route. 
 
 ### Rothschild Way 
 The [Rothschild Way](https://www.greatfen.org.uk/explore/walks-trails/rothschild-way){:target="_blank"} is a fenland footpath commemorating the conservation work of Charles Rothschild.  The route is undertaken by a number of people annually in June through the Rothschild Way Challenge event which raises funds for work on the Great Fen.
