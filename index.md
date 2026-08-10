@@ -10,7 +10,7 @@ From the heart of England to the Wash, the Great Ouse wends its way through a pr
 
 ### Ouse Valley Way guidebook out now!
 
-Follow the course of the Great Ouse as it meanders from the heart of England to the Wash. How? This guide will show you the way... <a target="_blank" href="https://www.ebay.co.uk/itm/800242594317">Now available on eBay!</a>
+Follow the course of the Great Ouse as it meanders from the heart of England to the Wash. How? This guide will show you the way... <a target="_blank" href="https://www.ebay.co.uk/itm/800242594317">Available here</a>
 <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <div class="card zoom">
